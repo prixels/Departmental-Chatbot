@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dummy Page - DSCE AI & ML</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+
+        /* Navbar */
+        nav {
+            background-color: #003d5b;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav h1 {
+            margin: 0;
+        }
+
+        /* Main Content */
+        .content {
+            padding: 30px;
+        }
+
+        .highlights {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 30px;
+        }
+
+        .highlights div {
+            flex: 1;
+            padding: 20px;
+            background-color: white;
+            margin: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        .highlights div h3 {
+            margin-top: 0;
+        }
+
+        /* Chatbot Button */
+        .chatbot-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #25d366;
+            color: white;
+            padding: 15px;
+            border-radius: 50%;
+            font-size: 24px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+            cursor: pointer;
+            z-index: 1000;
+        }
+
+        /* Chatbot Window */
+        #chatbot {
+            position: fixed;
+            bottom: 70px;
+            right: 20px;
+            width: 350px;
+            height: 400px;
+            background-color: white;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            border-radius: 8px;
+            display: none;
+            flex-direction: column;
+            overflow: hidden;
+            z-index: 999;
+        }
+
+        #chatbot-header {
+            background-color: #003d5b;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            cursor: pointer;
+        }
+
+        #chatbot-messages {
+            padding: 10px;
+            flex: 1;
+            overflow-y: auto;
+        }
+
+        .message {
+            margin-bottom: 10px;
+            padding: 10px;
+            background-color: #e5e5e5;
+            border-radius: 10px;
+            max-width: 80%;
+        }
+
+        .message.bot {
+            background-color: #dcf8c6;
+        }
+
+        .message.user {
+            background-color: #ffffff;
+            align-self: flex-end;
+        }
+
+        #chatbot-input {
+            padding: 10px;
+            border-top: 1px solid #ddd;
+            display: flex;
+        }
+
+        #chatbot-input input {
+            flex: 1;
+            padding: 10px;
+            border: none;
+            border-radius: 20px;
+            margin-right: 10px;
+            font-size: 16px;
+        }
+
+        #chatbot-input button {
+            background-color: #25d366;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 20px;
+            border: none;
+            cursor: pointer;
+        }
+
+    </style>
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav>
+        <h1>Dayananda Sagar College of Engineering</h1>
+        <h3>AI & ML Department</h3>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="content">
+        <h2>Highlights</h2>
+        <div class="highlights">
+            <div>
+                <h3>Aventus</h3>
+                <p>AVENTUS, a premier national-level mega hackathon, convened top talents...</p>
+            </div>
+            <div>
+                <h3>Opus Live</h3>
+                <p>OPUS - Live Competition was conducted by Mangalore Institute Of Technology...</p>
+            </div>
+            <div>
+                <h3>AI Premier League</h3>
+                <p>The AIML Department hosted the much-anticipated AIPL Cricket Tournament...</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chatbot Button -->
+    <div class="chatbot-btn" onclick="toggleChatbot()">💬</div>
+
+    <!-- Chatbot Window -->
+    <div id="chatbot">
+        <div id="chatbot-header" onclick="toggleChatbot()">Chatbot</div>
+        <div id="chatbot-messages"></div>
+        <div id="chatbot-input">
+            <input type="text" id="user-message" placeholder="Ask me something...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script>
+        let chatbotVisible = false;
+
+        // Toggle chatbot visibility
+        function toggleChatbot() {
+            chatbotVisible = !chatbotVisible;
+            document.getElementById("chatbot").style.display = chatbotVisible ? "flex" : "none";
+        }
+
+        // Send message to Flask backend
+        function sendMessage() {
+            const userMessage = document.getElementById("user-message").value;
+            if (userMessage.trim() !== "") {
+                // Add user message to chat window
+                const userDiv = document.createElement("div");
+                userDiv.className = "message user";
+                userDiv.textContent = userMessage;
+                document.getElementById("chatbot-messages").appendChild(userDiv);
+
+                // Clear input field
+                document.getElementById("user-message").value = "";
+
+                // Send message to Flask backend
+                fetch("http://127.0.0.1:5000/chat", {  // Flask server's route
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify({ message: userMessage })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    // Add bot response to chat window
+                    const botDiv = document.createElement("div");
+                    botDiv.className = "message bot";
+                    botDiv.textContent = data.response;  // Bot's response
+                    document.getElementById("chatbot-messages").appendChild(botDiv);
+                    document.getElementById("chatbot-messages").scrollTop = document.getElementById("chatbot-messages").scrollHeight;
+                })
+                .catch(error => {
+                    // Display error message if there is an issue with the Flask backend
+                    const botDiv = document.createElement("div");
+                    botDiv.className = "message bot";
+                    botDiv.textContent = "Sorry, I couldn't get a response from the server.";
+                    document.getElementById("chatbot-messages").appendChild(botDiv);
+                });
+            }
+        }
+    </script>
+
+</body>
+</html>

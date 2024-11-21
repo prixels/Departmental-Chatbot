@@ -1,0 +1,1851 @@
+{
+    "intents":[
+        {
+            "tag": "battle_of_bands-2",
+            "patterns": [
+                "What is Battle of bands?"
+            ],
+            "responses": [
+                "K Sujan rao student of 6th semester, won 1st place in \"Battle of bands\" competition conducted by Krupanidhi college on 3rd of March 2023."
+            ]
+        },
+        {
+            "tag": "Competition",
+            "patterns": [
+                "What is OPUS - Live Competition?"
+            ],
+            "responses": [
+                "K Sujan rao student of 6th semester, won 1st place in \"OPUS - Live Competition\"conducted by Mangalore Institute Of Technology & Engineering on the occasion of state level Intercollegiate cultural, technical and management fest Sentia on 16th March 2023."
+            ]
+        },
+        {
+            "tag": "battle_of_bands-1",
+            "patterns": [
+                "What is Battle of Bands in Mediatron Fest?"
+            ],
+            "responses": [
+                "K Sujan rao student of 5th semester, from the department of AI&ML won 2nd place in the \"Battle of bands\" competition conducted by jyothi nivas college on 5th December 2022."
+            ]
+        },
+        {
+            "tag": "what_is_ai_premier_league",
+            "patterns": [
+                "What is AI PREMIER LEAGUE?"
+            ],
+            "responses": [
+                "On June 23, 2024, the AIML Department hosted the much-anticipated AIPL Cricket Tournament. This event brought together students from different academic years, fostering a spirit of camaraderie and friendly competition within the department."
+            ]
+        },
+        {
+            "tag": "what_is_lumina_2024",
+            "patterns": [
+                "What is Lumina 2024?"
+            ],
+            "responses": [
+                "A cultural event named Lumina was organized by the department of AI & ML on the 5th of January 2024. This report chronicles the unfolding tapestry of performances, speeches, and expressions that marked the essence of our cultural extravaganza."
+            ]
+        },
+        {
+            "tag": "what_is_interaction_with_intel_corporation",
+            "patterns": [
+                "What is Interaction with Intel Corporation?"
+            ],
+            "responses": [
+                "Collaboration with Intel for Artificial Intelligence and Machine Learning curriculum. It was agreed upon that the Machine Learning Lab Curriculum in particular will be through the support of Intel through their OneAPI support ecosystem."
+            ]
+        },
+        {
+            "tag": "what_is_book_club",
+            "patterns": [
+                "What is Book Club?"
+            ],
+            "responses": [
+                "On 29th of August  2024, the AI and ML Department at Dayananda Sagar College of Engineering proudly launched the \"Book Club - 2024\" as part of the SCR (Student Community Responsibility) initiative. Spearheaded by Prof. Deepshree Buchade, the club is designed to bring together second-year students, encouraging them to exchange books, share knowledge, and foster a deeper connection with both literature and technical subjects."
+            ]
+        },
+        {
+            "tag": "what_is_the_happiness_project",
+            "patterns": [
+                "What is The Happiness Project?"
+            ],
+            "responses": [
+                "The special talk on \"The Happiness Project\" was organized exclusively for faculty members, aiming to address the well-being and holistic development of educators. Hosted by a renowned speaker, the event delved into various facets of happiness, including healthy living, self-care, and work-life balance."
+            ]
+        },
+        {
+            "tag": "what_is_learning_towards_mental_wellbeing",
+            "patterns": [
+                "What is Learning Towards Mental Wellbeing?"
+            ],
+            "responses": [
+                "The objective of the \"Learning Towards Mental Wellbeing\" workshop held on August 1st, 2023, was to provide AI & ML faculties and non-teaching staff at 502 with practical tools and strategies to enhance their mental well-being. This workshop aimed to address the unique challenges faced by individuals working in the rapidly evolving field of artificial intelligence and machine learning while promoting a healthier work-life balance and fostering a supportive work environment. :The \"Learning Towards Mental Wellbeing\" workshop held on August 1st, 2023, was a dynamic and engaging event tailored specifically for the AI & ML faculties and non-teaching staff of 502. In the fast-paced world of AI and ML, it's crucial to acknowledge and prioritize mental health and overall well-being. This event allowed participants to gain valuable insights, strategies, and resources to enhance their mental well-being and cultivate a more balanced, fulfilling professional life."
+            ]
+        },
+        {
+            "tag": "what_is_the_game_of_being_disciplined",
+            "patterns": [
+                "What is The Game of being Disciplined?"
+            ],
+            "responses": [
+                "To give us insights that will help us chart our own path to our dream job.On 27th July 2023, Ms. Sushma Lingaraj conducted an inspiring and thought- provoking talk on \"The Game of Being Disciplined.\" The session emphasized the importance of self-discipline, cultivating positive behaviors, and developing good habits to achieve personal and professional success."
+            ]
+        },
+        {
+            "tag": "what_is_mind_matters",
+            "patterns": [
+                "What is Mind Matters?"
+            ],
+            "responses": [
+                "Promoting holistic student developmentHighlighting the connection between mental health and academic success.On 13th July 2023, the Department of AI & ML at DSCE organized an inspiring session on \"Mind Matters,\" . It was led by Psychology students Shreya, Smirithi, Likith , and Vibha. This session focused on promoting holistic development among students and emphasized the significance of nurturing their well-being beyond mundane academic activities."
+            ]
+        },
+        {
+            "tag": "what_is_inspirational_talk_series",
+            "patterns": [
+                "What is Inspirational Talk Series?"
+            ],
+            "responses": [
+                "To inspire the students, interested in Civil Service.To get the insights on Civil Service Examination. The 2 nd and 3 rd year students of Artificial Intelligence & Machine Learning Department, Dayananda Sagar College of Engineering had an opportunity to participate in an Inspirational talk series organized by Prof. Reshma S, AI&ML Dept."
+            ]
+        },
+        {
+            "tag": "what_is_scoreleap",
+            "patterns": [
+                "What is ScoreLeap?"
+            ],
+            "responses": [
+                "To provide students with valuable insights into the opportunities available for higher education abroad.To help students navigate the complex application process for foreign universities. On March 30th, 2023, the Department of AIML at an educational institution organized a talk on \"Higher Studies in Abroad\" for the students. The speaker of the session was Mr. Kalyan Chamarthi, CEO of ScoreLeap, who shared his insights and vast experience in consulting students who are interested in pursuing higher studies abroad."
+            ]
+        },
+        {
+            "tag": "what_is_neopat",
+            "patterns": [
+                "What is NeoPAT?"
+            ],
+            "responses": [
+                "To give a demonstration of the NeoPAT platform and how it can be used to prepare for various aspects of the placement process.To help students effectively use the NeoPAT platform and prepare for aptitude tests, coding tests, and technical interviews. On March 27th, 2023, the Placement Department at DSCE organized an event called \"NeoPAT Platform Demo Session\" for 6th semester students from 9 AM to 11 AM. The session was conducted by Mr.Guru Venkatesh and Mr. Nagesh Puranik from the placement department who shared valuable insights on the do's and don'ts to be followed by the students during placement drives. Representatives from NeoPAT, a platform designed to help students prepare for campus placements, also gave a demonstration on how to use the platform effectively."
+            ]
+        },
+        {
+            "tag": "Pre Placement Session",
+            "patterns": [
+                "What is Nokia Pre-Placement Session?"
+            ],
+            "responses": [
+                "To understand the impact the most basic interview questions have on one's selectionTo understand the campus to corporate phase in one's life The session was headed by Indumathi, one of the ambassadors from Nokia, Bangalore. The speaker then explained an importance of communication in the corporate world, highlighting its essential role in building strong relationships and achieving business objectives."
+            ]
+        },
+        {
+            "tag": "what_is_importance_of_verbal_reasoning_and_group_discussions",
+            "patterns": [
+                "What is Importance of Verbal Reasoning and Group Discussions?"
+            ],
+            "responses": [
+                "To introduce group discussions and its importance.To understand verbal reasoning and its significance during placements The event was conducted by Mr.Mageshwaran, who is an esteemed speaker from TCS. He explained about verbal reasoning and the importance of group discussions."
+            ]
+        },
+        {
+            "tag": "what_is_get_set_for_placements",
+            "patterns": [
+                "What is Get Set for Placements?"
+            ],
+            "responses": [
+                "To understand how to build our skills for placements and Interns.Provide insight into how to get placed in the top companies. The Department of AIML has organized an event of \" Get Set for Placements \" which was held online on 18th November 2022, 3rd and 5th semester student were participated in the event. The Speaker of the event was Ms.Vyshnavi Kowshik S, a DevOps Engineer at Goldman Sachs.he was working at Amazon Company, which is a dream company for many students. She explained her journey towards Amazon Company as a Cloud Engineer, and how she cracked interviews at Amazon and Goldman Sachs. In addition, she taught us how interns get benefits from on-the-job training and even in interviews which gave us a bunch of knowledge of how the industry works."
+            ]
+        },
+        {
+            "tag": "what_is_preplacement_talk",
+            "patterns": [
+                "What is PrePlacement Talk?"
+            ],
+            "responses": [
+                "To know the required documents for sitting internships and placementsTo provide an insight into various places available to students interested in pursuing their MastersTo understand what it’s like to work in Japan and how to get placements thereTo identify the options available to students who are looking into either placements or Masters, The session started by the first speaker from placements explained the necessary required documents. then followed by second speaker was from Eduway, third speaker was from Zenken, the fourth speaker was from careerlabs, explained about placements and how students can pursue masters."
+            ]
+        },
+        {
+            "tag": "what_is_get_set_for_placements_series",
+            "patterns": [
+                "What is Get Set for Placements Series?"
+            ],
+            "responses": [
+                "To understand the structure of placements and how they work, Department of AI&ML, DSCE organized “Get set for Placements series“ for the 5th semester students on 3rd November from 2PM to 5PM. The speaker of the event , Mr.Ashutosh Pandey, Compiler Engineer, AMD, Alumni DSCE, Founder-point Blank, Two Time GSoC Winner. He discussed, interacted and provided information regarding placements."
+            ]
+        },
+        {
+            "tag": "what_is_admissions",
+            "patterns": [
+                "What is Admissions?"
+            ],
+            "responses": [
+                "The admission process at DSCE is through CET and COMEDK. The minimum requirement is pass in PUC / CBSE / ISCE /10+2 or equivalent examination with Physics and Mathematics as compulsory subjects and a minimum of 45% marks"
+            ]
+        },
+        {
+            "tag": "what_is_about_dsce",
+            "patterns": [
+                "What is About DSCE?"
+            ],
+            "responses": [
+                "DSCE is an autonomous institute approved by All India Council for Technical Education (AICTE), Govt. of India and affiliated to Visvesvaraya Technological University. It has widest choice of engineering branches"
+            ]
+        },
+        {
+            "tag": "what_is_principal_message",
+            "patterns": [
+                "What is Principal Message?"
+            ],
+            "responses": [
+                "It gives me immense pleasure to welcome you all to the creative world of DSCE with an eco-friendly campus coupled with state-of-art infrastructure. Our well-equipped labs, research centres, workshops and libraries help"
+            ]
+        },
+        {
+            "tag": "what_is_examination_section",
+            "patterns": [
+                "What is Examination Section?"
+            ],
+            "responses": [
+                "The evaluation process is carried out in two stages. Continuous Internal Evaluation [CIE] during the progress of the semester and Semester End Examination [SEE] conducted at the end of the semester"
+            ]
+        },
+        {
+            "tag": "what_is_campus_walkthrough",
+            "patterns": [
+                "What is Campus Walkthrough?"
+            ],
+            "responses": [
+                "Schedules7th Sem Institutional Elective Syllabus7th Sem Institutional Elective Subjects ListReport on I Year Induction and Inauguration 2023-24Report on I Year Induction and Inauguration 2022-23Calendar of EventsBest practice 1Best practice 2Institutional DistinctivenessStudent Hand Book"
+            ]
+        },
+        {
+            "tag": "what_is_departments",
+            "patterns": [
+                "What is Departments?"
+            ],
+            "responses": [
+                "DSCE is consistently getting maximum ranks in VTU every Year.DSCE offers UG, PG & Ph.D programs. It has 23 Departments with well qualified faculty which makes DSCE a best place for Higher Education. Artificial Intelligence & Machine LearningAeronautical EngineeringAutomobile EngineeringBiotechnologyChemical EngineeringCivil EngineeringComputer Science and EngineeringComputer Science and Business SystemsComputer Science Engineering (Cyber Security)Computer Science Engineering(Data Science)Computer Science and Engineering (IoT & Cyber Security Including Blockchain Technology)Computer Science and DesignElectrical & Electronics EngineeringElectronics & Communication EngineeringInformation Science & EngineeringElectronics & Instrumentation EngineeringMechanical EngineeringMedical Electronics EngineeringElectronics & Telecommunication EngineeringMaster of Business AdministrationMaster of Computer ApplicationsMathematics DepartmentPhysics DepartmentChemistry Department"
+            ]
+        },
+        {
+            "tag": "what_is_44th_series_best_project_awards_2021",
+            "patterns": [
+                "What is 44th SERIES BEST PROJECT AWARDS 2021?"
+            ],
+            "responses": [
+                "Dayananda Sagar College of Engineering has bagged two best project awards from KSCST, Government of Karnataka for the second consecutive year. "
+            ]
+        },
+        {
+            "tag": "what_is_47th_series_kscst_best_performing_college_and_best_project_awards_2024",
+            "patterns": [
+                "What is 47th SERIES KSCST BEST PERFORMING COLLEGE AND BEST PROJECT AWARDS 2024?"
+            ],
+            "responses": [
+                "Date: 9th-10th August 2024 Dayananda Sagar College of Engineering has bagged the best performing college award and three best projects award in the Karnataka state level 47th series Student Project Programme (SPP) Seminar and Exhibition conducted on 9th and 10th of August 2024 organized by KSCST (GOK), held at Sharnbasva University, Kalaburgi. "
+            ]
+        },
+        {
+            "tag": "what_is_international_yoga_day_celebrated",
+            "patterns": [
+                "What is International Yoga Day Celebrated?"
+            ],
+            "responses": [
+                "Date: 21st June 2024 The International Yoga day was celebrated at DSCE on 21 st June 2024. The event was jointly organised by Centre for Happiness and Wellness and Department of MCA. The event commenced at 3 PM, with a talk on “Importance of Mudras in Yogasana” followed by few simple asanas demonstration. "
+            ]
+        },
+        {
+            "tag": "what_is_space_technology_cell",
+            "patterns": [
+                "What is Space Technology Cell?"
+            ],
+            "responses": [
+                "Date: 29th April 2024 DSCE and ISRO signed a MoU to establish STC in the DSCE on April 29 th at ISTRAC, Peenya, Bangalore. "
+            ]
+        },
+        {
+            "tag": "what_is_fdp_on_exploring_ai_&_ml_innovative_techniques_in_healthcare_applications",
+            "patterns": [
+                "What is FDP on Exploring AI & ML Innovative Techniques in Healthcare Applications?"
+            ],
+            "responses": [
+                "Date: 25th to 30th March 2024 FDP on Exploring AI & ML Innovative Techniques in Healthcare Applications from 25th to 30th March 2024, jointly organized by departments of Medical Electronics, CSE & Ai & ML. "
+            ]
+        },
+        {
+            "tag": "what_is_national_fdp_program_on_analytics_with_excel:_elementary_to_advanced",
+            "patterns": [
+                "What is National FDP Program on Analytics with Excel: Elementary to Advanced?"
+            ],
+            "responses": [
+                "The program is designed to cater to individuals seeking to enhance their proficiency in Excel, develop dynamic dashboards, and acquire programming skills using VBA and Macros for increased efficiency in data management and automation. "
+            ]
+        },
+        {
+            "tag": "what_is_lcmsd__2023,",
+            "patterns": [
+                "What is LCMSD -2023,?"
+            ],
+            "responses": [
+                "One-day International Conference on \"Leveraging Contemporary Management Practices for Sustainable Development (LCMSD -2023)” 22 December 2023 "
+            ]
+        },
+        {
+            "tag": "what_is_46th_series_kscst_best_project_awards_2023",
+            "patterns": [
+                "What is 46th SERIES KSCST BEST PROJECT AWARDS 2023?"
+            ],
+            "responses": [
+                " Dayananda Sagar College of Engineering has bagged 1 best project award in the EXHIBITION and 1 best project presentation in the SEMINAR in the state level 46th series Student Project Programme (SPP): 2022-23 - a State Level Seminar and Exhibition conducted on 11th and 12th of August 2023 organized by KSCST (GOK). "
+            ]
+        },
+        {
+            "tag": "what_is_46th_series_kscst_sanctioned_projects",
+            "patterns": [
+                "What is 46th SERIES KSCST SANCTIONED PROJECTS?"
+            ],
+            "responses": [
+                "Dayananda Sagar College of Engineering has bagged a record number of student projects sanctioned from KSCST, Government of Karnataka for the year 2023. "
+            ]
+        },
+        {
+            "tag": "what_is_national_education_day",
+            "patterns": [
+                "What is National Education Day?"
+            ],
+            "responses": [
+                "Date: 11 November 2022 Venue: Dr D Premachandra Sagar auditorium The Department of Physics is celebrating National Education Day with a one day workshop and competitions for its students. "
+            ]
+        },
+        {
+            "tag": "what_is_pitch_2022",
+            "patterns": [
+                "What is PITCH 2022?"
+            ],
+            "responses": [
+                "The Department of Management Studies is organizing \"PITCH 2022\" an exclusive event that encourages budding entrepreneurs to present their ideas before a panel of venture capitalists. This will build confidence amongst the students about proposing value through their ideas. "
+            ]
+        },
+        {
+            "tag": "what_is_business_plan_competition_2022",
+            "patterns": [
+                "What is BUSINESS PLAN COMPETITION 2022?"
+            ],
+            "responses": [
+                "The Department of Management Studies is organizing \"BUSINESS PLAN COMPETITION 2022\", an exclusive event that encourages budding entrepreneurs to utilize the platform to showcase their business idea in detail with the help of a business Plan – which is the starting point if you want to make sure that the idea you have in mind for your business is a feasible idea and profitable one as well. "
+            ]
+        },
+        {
+            "tag": "what_is_asthra_2022",
+            "patterns": [
+                "What is ASTHRA 2022?"
+            ],
+            "responses": [
+                " The Department of Management Studies is organizing \"ASTHRA 2022 - Power of Human Resource\", an inter-collegiate HR Event that aims at showcasing that a Great vision is not possible without great people. "
+            ]
+        },
+        {
+            "tag": "what_is_datanova_2022",
+            "patterns": [
+                "What is DATANOVA 2022?"
+            ],
+            "responses": [
+                "The Department of Management Studies is organizing \"DATANOVA 2022\", a Business Analytics Intercollegiate event that aims to test one's Business Analytics Skills against peers while proving their mettle. "
+            ]
+        },
+        {
+            "tag": "what_is_onyx_2022",
+            "patterns": [
+                "What is ONYX 2022?"
+            ],
+            "responses": [
+                "The Department of Management Studies is organizing \"ONYX 2022\", an Operations-related intercollegiate event that aims to engage the students with the current trends in the world of operations and supply chain management. "
+            ]
+        },
+        {
+            "tag": "what_is_ideathon_2022",
+            "patterns": [
+                "What is IDEATHON 2022?"
+            ],
+            "responses": [
+                " ‘Ideathon 2022’ is an exclusive event organized by the Department of Management Studies that encourages budding entrepreneurs to showcase their idea in a team competition where students ideate and present scalable solutions to modern-day challenges in today's society. It is a uniquely designed event that provides absolute beginners with the ability to start thinking entrepreneurially. "
+            ]
+        },
+        {
+            "tag": "what_is_45th_series_kscst_best_project_awards_2022",
+            "patterns": [
+                "What is 45th SERIES KSCST BEST PROJECT AWARDS 2022?"
+            ],
+            "responses": [
+                "Dayananda Sagar College of Engineering has bagged 6 best project awards in the EXHIBITION and 2 best projects in the SEMINAR in the state level 45th series of Student Project Programme (SPP): 2021-22 - a State Level Seminar and Exhibition conducted on 12th and 13th of August 2022 at Visvesvaraya Technological University (VTU), Belagavi and was sponsored for 2 projects in the FACULTY PROJECT PROGRAM (FPP). "
+            ]
+        },
+        {
+            "tag": "what_is_faculty_development_program",
+            "patterns": [
+                "What is FACULTY DEVELOPMENT PROGRAM?"
+            ],
+            "responses": [
+                "Faculty development program on “Disruptive Technologies and Challenges in Devices, Communications, Healthcare, Automation, Smart Grid using AI, ML and 5G/6G” Date: 14th March to 19th March 2022 Organizing Departments: Electrical & Electronics Engg, Electronics & Communication Engg, Electronics & Telecommunication Engg, Electronics & Instrumentation Engg, Medical Electronics Engg and Dept. of Physics "
+            ]
+        },
+        {
+            "tag": "what_is_national_science_day_2022",
+            "patterns": [
+                "What is National Science Day 2022?"
+            ],
+            "responses": [
+                "Departments of Physics, Chemistry and Mathematics, DSCE are organizing a “National Science Day-2022” on 28th February 2022 at 3:30 PM. All are cordially invited to the program "
+            ]
+        },
+        {
+            "tag": "what_is_inaugural_function",
+            "patterns": [
+                "What is Inaugural Function?"
+            ],
+            "responses": [
+                "Department of Biotechnology cordially Invite you for the Inaugural Function of VGST Sponsored 5 days FDP on\"Genome Editing: Understanding the concept and Application\" Date: 28-02-2022 Time: 10.00am Venue: C D Sagar Auditorium, DSI Campus "
+            ]
+        },
+        {
+            "tag": "what_is_faculty_development_program_(fdp)",
+            "patterns": [
+                "What is Faculty Development Program (FDP)?"
+            ],
+            "responses": [
+                "Faculty Development Program (FDP) on “Genome Editing Tools: Understanding the Concepts and Applications” Date: Feb.28th to Mar 5th, 2022 Organizer: Department of Biotechnology, Dayananda Sagar College of Engineering, KS Layout, Bangalore. Sponsored by: Vision Group on Science and Technology, Department of Information Technology, Biotechnology and Science & Technology, Govt. of Karnataka. "
+            ]
+        },
+        {
+            "tag": "what_is_advancement_in_sustainable_construction_technology",
+            "patterns": [
+                "What is Advancement in Sustainable Construction Technology?"
+            ],
+            "responses": [
+                "National Seminar on \"Advancement in Sustainable Construction Technology\" on 23rd Feb 2022 "
+            ]
+        },
+        {
+            "tag": "what_is_industry_connect_on_data_visualization",
+            "patterns": [
+                "What is Industry Connect on Data Visualization?"
+            ],
+            "responses": [
+                "The Department of Management Studies, Dayananda Sagar College of Engineering presents a Workshop - Industry Connect on Data Visualization by Mr. Rahul Patil, Group Manager, Evalueserve on 19th February 2022 from 2:30 to 4:30 PM. "
+            ]
+        },
+        {
+            "tag": "what_is_an_overview_on_enterprise_resource_planning",
+            "patterns": [
+                "What is An Overview on Enterprise Resource Planning?"
+            ],
+            "responses": [
+                "The Department of Management Studies, Dayananda Sagar College of Engineering presents a Guest Lecture on An Overview on Enterprise Resource Planning by Mr. Satish V, Chief Information Office, Dayananda Sagar Institutions, on 19th February 2022 at 11:00 AM."
+            ]
+        },
+        {
+            "tag": "what_is_quick_links»",
+            "patterns": [
+                "What is Quick Links»?"
+            ],
+            "responses": [
+                "AICTE FeedbackNIRFIQACARIIANISPAudit ReportInstitution Research Promotion Guidelines 2022NAAC Self Study ReportGrievance Redressal Portal - AICTEDayananda Sagar Entrepreneurship Research & Business Incubator FoundationDr. Chandramma Sagar Center for Women Empowerment and Skills Training (DC - WEST)"
+            ]
+        },
+        {
+            "tag": "what_is_young_upstart_entrepreneurial_design_thinking_by_sap_labs",
+            "patterns": [
+                "What is Young UpStart Entrepreneurial Design Thinking by SAP LABS?"
+            ],
+            "responses": [
+                "The day began with an introduction to design thinking, a human-centered problem-solving methodology. We explored the different stages of design thinking "
+            ]
+        },
+        {
+            "tag": "what_is_exploring_ai_&_ml_innovative_techniques_in_healthcare_applications",
+            "patterns": [
+                "What is Exploring AI & ML Innovative Techniques in Healthcare Applications?"
+            ],
+            "responses": [
+                "Inaugration Program was presided by the presence of Secretary Sri Galiswamy, the Vice- Principals Dr. Suma V, Dr. Ramaraju H K, Dr. Ramesh Babu D R the Chief Academic Officer Sri M N Guruvenkatesh, HOD of Medical Electronics Department Dr. A R Ashwatha, HOD of Artificial Intelligence & Machine Learning department Dr. Vindhya P Malagi and the chief guest and speaker of the Day Dr. Sanjeev Kubakaddi "
+            ]
+        },
+        {
+            "tag": "what_is_exploring_emerging_tech_frontiers",
+            "patterns": [
+                "What is Exploring Emerging Tech Frontiers?"
+            ],
+            "responses": [
+                "Exploring Emerging Tech Frontiers: Trends in Innovation and Entrepreneurship”The Department of Artificial Intelligence and Machine Learning at Dayananda Sagar College of Engineering successfully organized a 3-day Faculty Development Program titled \"Exploring Emerging Tech Frontiers: Trends in Innovation and Entrepreneurship.\" This insightful event, held from March 18th to March 20th, 2024, was generously funded by the National Innovation Startup Policy."
+            ]
+        },
+        {
+            "tag": "what_is_exploring_emerging_tech_frontiers:_trends_in_innovation_and_entrepreneurship”",
+            "patterns": [
+                "What is Exploring Emerging Tech Frontiers: Trends in Innovation and Entrepreneurship”?"
+            ],
+            "responses": [
+                "The Department of Artificial Intelligence and Machine Learning at Dayananda Sagar College of Engineering successfully organized a 3-day Faculty Development Program titled \"Exploring Emerging Tech Frontiers: Trends in Innovation and Entrepreneurship.\" This insightful event, held from March 18th to March 20th, 2024, was generously funded by the National Innovation Startup Policy. "
+            ]
+        },
+        {
+            "tag": "what_is_women’s_day_celebration",
+            "patterns": [
+                "What is Women’s Day Celebration?"
+            ],
+            "responses": [
+                "In Department of Mathematics, the students were greeted by faculty members who provided insights into the department's academic programs and research areas. They attended presentations on various mathematical disciplines, including algebra, analysis, and applied mathematics. They were engaged in discussions with professors and graduate students,learning about ongoing research projects and the collaborative atmosphere within the department. "
+            ]
+        },
+        {
+            "tag": "what_is_iisc_open_day",
+            "patterns": [
+                "What is IISC Open Day?"
+            ],
+            "responses": [
+                "In Department of Mathematics, the students were greeted by faculty members who provided insights into the department's academic programs and research areas. They attended presentations on various mathematical disciplines, including algebra, analysis, and applied mathematics. They were engaged in discussions with professors and graduate students,learning about ongoing research projects and the collaborative atmosphere within the department. "
+            ]
+        },
+        {
+            "tag": "what_is_art_of_computing",
+            "patterns": [
+                "What is Art of Computing?"
+            ],
+            "responses": [
+                "The two-day Art of Computing workshop aims to explore the diverse applications of computing in fields such as agriculture, sports, and visual arts while enhancing participants' understanding of algorithmic thinking and problem-solving. Through sessions covering topics ranging from deep learning to computational geometry, participants will refine their analytical skills and creativity. "
+            ]
+        },
+        {
+            "tag": "what_is_innovations_in_generative_ai",
+            "patterns": [
+                "What is Innovations in Generative AI?"
+            ],
+            "responses": [
+                "The Department of Artificial Intelligence and Machine Learning at Dayananda Sagar College of Engineering organized a talk on \"Innovations in Generative AI\" by Mr. Vaman Sharma, Director - Program & Project Management, Data & Analytics in LTI Mind Tree. The talk was aimed at providing insights into the latest advancements and applications of generative AI to the 5th semester students. "
+            ]
+        },
+        {
+            "tag": "what_is_discovering_the_essentials_of_cyber_defense,_join_the_cyber_squad",
+            "patterns": [
+                "What is Discovering the Essentials of Cyber Defense, Join the Cyber Squad?"
+            ],
+            "responses": [
+                "The Cybersecurity Skill Development Program commenced with a captivating session led by Mr. Nandi Dharma Kishore HN, setting the tone for an immersive exploration of cybersecurity essentials. Mr. Kishore HN eloquently articulated the critical role of cybersecurity in today's interconnected world, emphasizing its significance in protecting sensitive information and fortifying organizational resilience against the evolving landscape of cyber threats. "
+            ]
+        },
+        {
+            "tag": "what_is_full_stack_forge:_crafting_web_solutions",
+            "patterns": [
+                "What is Full Stack Forge: Crafting Web Solutions?"
+            ],
+            "responses": [
+                "The Full Stack Development Workshop held on February 3rd to 8th was an insightful hands-on event aimed at providing participants with a comprehensive understanding of full stack development. Renowned industry expert Raghunandan led the workshop, delivering a detailed introduction to full stack development and guiding attendees through various aspects of the field. "
+            ]
+        },
+        {
+            "tag": "what_is_chill_&_thrill_chef:_where_flavour_meets_in_every_bite!",
+            "patterns": [
+                "What is Chill & Thrill Chef: Where Flavour meets in every Bite!?"
+            ],
+            "responses": [
+                "Chill & Thrill Chef: Where Flavour meets in every bite!The \"Chill & Thrill Chef: Where Flavor Meets in Every Bite!\" event was an exciting culinary endeavor conducted as part of the Social Connect & Responsibility (SCR) course, coded 22SCR37, for third-semester students. With a focus on fostering creativity, promoting collaboration, and ensuring food safety and hygiene, this event aimed to provide a hands-on learning experience outside the traditional confines of a kitchen."
+            ]
+        },
+        {
+            "tag": "what_is_chill_&_thrill_chef:_where_flavour_meets_in_every_bite!",
+            "patterns": [
+                "What is Chill & Thrill Chef: Where Flavour meets in every bite!?"
+            ],
+            "responses": [
+                "The \"Chill & Thrill Chef: Where Flavor Meets in Every Bite!\" event was an exciting culinary endeavor conducted as part of the Social Connect & Responsibility (SCR) course, coded 22SCR37, for third-semester students. With a focus on fostering creativity, promoting collaboration, and ensuring food safety and hygiene, this event aimed to provide a hands-on learning experience outside the traditional confines of a kitchen. "
+            ]
+        },
+        {
+            "tag": "what_is_power_of_data_structures",
+            "patterns": [
+                "What is Power of Data Structures?"
+            ],
+            "responses": [
+                "Unlocking Success : Optimizing solutions in Recruitment Interviews through the Power of Data StructuresIn this empowering talk, participants will gain a profound understanding of data structures crucial for navigating technical interviews, guided by seasoned Senior Software Engineer, Abhijith S. Drawing from seven years of impactful experience in Data Structures and Full Stack Development at McAfee, Abhijith offers practical examples and problem-solving strategies tailored specifically for interview preparation."
+            ]
+        },
+        {
+            "tag": "what_is_unlocking_success_:_optimizing_solutions_in_recruitment_interviews_through_the_power_of_data_structures",
+            "patterns": [
+                "What is Unlocking Success : Optimizing solutions in Recruitment Interviews through the Power of Data Structures?"
+            ],
+            "responses": [
+                "In this empowering talk, participants will gain a profound understanding of data structures crucial for navigating technical interviews, guided by seasoned Senior Software Engineer, Abhijith S. Drawing from seven years of impactful experience in Data Structures and Full Stack Development at McAfee, Abhijith offers practical examples and problem-solving strategies tailored specifically for interview preparation. "
+            ]
+        },
+        {
+            "tag": "what_is_vision_craft",
+            "patterns": [
+                "What is Vision Craft?"
+            ],
+            "responses": [
+                "The Department of Artificial Intelligence and Machine Learning (AIML) at DSCE orchestrated a vibrant tech event titled \"Vision Craft.\" This initiative served as a dynamic platform for 2nd and 3rd-year students to showcase their creativity and technical prowess through the design of laboratory sandwich boards. "
+            ]
+        },
+        {
+            "tag": "what_is_she_spark_inaugural_session",
+            "patterns": [
+                "What is She Spark Inaugural Session?"
+            ],
+            "responses": [
+                "The primary objective of launching the SheSpark community was to introduce and connect with girls and women, providing them with a welcoming platform to actively engage in discussions, collaborations, and initiatives. During the inaugural session, the focus was on informing participants about SheSpark's objectives and anticipated outcomes. "
+            ]
+        },
+        {
+            "tag": "what_is_iisc_lab_visit",
+            "patterns": [
+                "What is IISC Lab Visit?"
+            ],
+            "responses": [
+                "In a recent field visit organized by IEDC, Bhuvan and Manjunath from the 5th and 3rd semesters respectively, had the invaluable opportunity to immerse themselves in the cutting- edge STEM lab at IISc. Through engaging with hands-on experiments, they gained firsthand insights into the latest advancements across science, technology, engineering, and mathematics. "
+            ]
+        },
+        {
+            "tag": "what_is_lumina_2024",
+            "patterns": [
+                "What is Lumina 2024?"
+            ],
+            "responses": [
+                "A cultural event named Lumina was organized by the department of AI & ML on the 5th of January 2024. This report chronicles the unfolding tapestry of performances, speeches, and expressions that marked the essence of our cultural extravaganza. The cultural event commenced with an engaging MC introduction, setting the stage for a night of cultural celebration. "
+            ]
+        },
+        {
+            "tag": "what_is_parent_teacher_meeting",
+            "patterns": [
+                "What is Parent-Teacher Meeting?"
+            ],
+            "responses": [
+                "The Department of Artificial Intelligence and Machine Learning (AI&ML) at DSCE organized a succinct and informative Parent-Teacher meeting for 7th semester students. The faculty members of the 7th semester, under the leadership of Dr.Vindhya P Malagi, Head of the Department for AI&ML, collaborated to discuss the academic progress, career guidance, and holistic development of the students. "
+            ]
+        },
+        {
+            "tag": "what_is_ideahive:_where_brilliance_buzzes",
+            "patterns": [
+                "What is IdeaHive: Where Brilliance Buzzes?"
+            ],
+            "responses": [
+                "The Department of Artificial Intelligence and Machine Learning (AI&ML) hosted an exhilarating Ideathon, showcasing the department's commitment to fostering innovation and collaboration. Spearheaded by esteemed faculty coordinators, Prof. Kavya and Dr. Reshma, the event served as a dynamic platform for students and participants to unleash their creativity and problem-solving skills. "
+            ]
+        },
+        {
+            "tag": "what_is_futuristic_innovation_technology_for_sustainable_it_solutions",
+            "patterns": [
+                "What is Futuristic Innovation Technology for Sustainable IT Solutions?"
+            ],
+            "responses": [
+                "The National Symposium on \"Futuristic Innovation Technology for Sustainable IT Solutions\" serves not only as a platform for discourse on cutting-edge technological advancements but also as a catalyst for instigating positive transformation. This symposium goes beyond mere discussion, actively fostering collaboration, facilitating the exchange of knowledge, and advocating for sustainable practices. In doing so, it assumes a pivotal role in molding the future landscape of Information Technology (IT) in a manner that is both innovative and environmentally conscientious. "
+            ]
+        },
+        {
+            "tag": "what_is_generative_ai_session",
+            "patterns": [
+                "What is Generative AI Session?"
+            ],
+            "responses": [
+                "Bismillah Kani, a seasoned Staff AI/ML Scientist at Waygate Technologies, conducted an informative session as part of the partial course delivery for 7th- semester students of the Department of Artificial Intelligence and Machine Learning at Dayananda Sagar College of Engineering he focus of the session was Generative AI, where Mr. Kani covered fundamental aspects such as the definition of generative AI, its applications, and a historical overview of generative AI models. "
+            ]
+        },
+        {
+            "tag": "what_is_talk_on_advances_in_gen_ai",
+            "patterns": [
+                "What is Talk on Advances in GEN AI?"
+            ],
+            "responses": [
+                "Mr. Prabhash Thakur, Director at Centelon, delivered an enlightening talk to the 7th-semester students on the remarkable strides and breakthroughs in the domain of General Artificial Intelligence (Gen AI). With an engaging presence and an expertise-driven approach, Mr. Thakur provided an insightful overview of the evolutionary journey of Gen AI. "
+            ]
+        },
+        {
+            "tag": "what_is_plant_for_a_planet",
+            "patterns": [
+                "What is Plant for a Planet?"
+            ],
+            "responses": [
+                "November 20th, 2023, marked a pivotal moment within DSCE's academic sphere as the \"Plant for a Planet\" event, the culmination of the Social Connect and Responsibility course for third-semester students, unfolded with an air of environmental enthusiasm and dedication. Spearheaded by Prof. Kavya D N, an advocate for sustainable practices in AI & ML, and joined by external faculty member Prof. Anupama, the event saw the esteemed presence of Dr. Vindhya P Malagi, Head of AI & ML at DSCE. "
+            ]
+        },
+        {
+            "tag": "what_is_intel_oneapi_sessions",
+            "patterns": [
+                "What is Intel oneAPI Sessions?"
+            ],
+            "responses": [
+                "On the 10th and 11th of November 2023, Nishank and Manikanta, 7th-semester Intel oneAPI student ambassadors, conducted two Intel oneAPI sessions at the Department of Artificial Intelligence & Machine Learning. The sessions were meticulously crafted to cater to the third semester students on November 10th and the first semester students on November 11th, with the aim of introducing them to Intel oneAPI and providing an immersive exploration of the Intel Developer Cloud. "
+            ]
+        },
+        {
+            "tag": "what_is_iedc_cell",
+            "patterns": [
+                "What is IEDC Cell?"
+            ],
+            "responses": [
+                "Professor Kavya D N's session on November 9th, 2023, resonated deeply with the eager minds of third-semester students at DSCE. Her expertise in AI & Machine Learning lent a unique perspective as she fervently delved into the realms of innovation and entrepreneurial spirit within the institution's Innovation Council (IIC). "
+            ]
+        },
+        {
+            "tag": "what_is_project_management_and_working_templates",
+            "patterns": [
+                "What is Project Management and Working Templates?"
+            ],
+            "responses": [
+                "The Tech Talk on Project Management & Working Templates was held on 20 th September, 2023 and was attended by 7 th Semester students of the AIML Department. The speaker for this event was Krishnamurthy Ramalingam, the CEO and Founder of Galactic Medical DataBank, a leader in healthcare technology solutions. "
+            ]
+        },
+        {
+            "tag": "what_is_amhiti",
+            "patterns": [
+                "What is Amhiti?"
+            ],
+            "responses": [
+                "In the spirit of compassion and generosity, Team Mudita organized a Mega Collection Drive named \"Amhiti: A Helping Hand for a Hopeful Heart!\" This event was designed to bring the Dayananda Sagar Institution together to collect essential items and donations to support those in need. The event spanned three days, from the 29th to the 31st of August 2023, within the premises of DSI. "
+            ]
+        },
+        {
+            "tag": "what_is_nokia_company_visit",
+            "patterns": [
+                "What is Nokia Company Visit?"
+            ],
+            "responses": [
+                "We learnt about the key points like Sustainability , Cybersecurity , Deglobalisation , State-driven based system and what are their significance. User needs, Technological Structures (How they are inter-connected to each other.) and how Human Augmentation is used to enhance vision and biomedical implants can be used to enhance the human abilities to do things. "
+            ]
+        },
+        {
+            "tag": "what_is_infosys_springboard_certification_drive",
+            "patterns": [
+                "What is Infosys Springboard Certification Drive?"
+            ],
+            "responses": [
+                "The Department of Computer Science and Design at DSCE organized an session about \"Infosys Springboard\". It was led by Pruthvi Adisesha (Senior Associate Learning-ETA Infosys Springboard). This session focused on promoting Infosys Springboard platform among students and showing them the significance of having these Certification in their CV . "
+            ]
+        },
+        {
+            "tag": "what_is_project_steps_and_management",
+            "patterns": [
+                "What is Project Steps and Management?"
+            ],
+            "responses": [
+                "A Workshop on Project Steps and Management was conducted for 1 st and 2 nd year students of Artificial Intelligence and Machine Learning Department by Dr. Vindhya P Malagi, Head of the Department, AI&ML. The event was coordinated by Asha K, Assistant Professor, AI&ML. Overall 110 students attended the workshop, focused on the steps that are needs to follow during Project Implementation. "
+            ]
+        },
+        {
+            "tag": "what_is_faculty_development_program_on_flavors_of_5g",
+            "patterns": [
+                "What is Faculty Development Program on Flavors of 5G?"
+            ],
+            "responses": [
+                " To obtain knowledge about 5G telecommunication architecture and workingTo know about the use of AIML technologies in 5G The session started with an introduction to 4G LTE and its architecture. A brief history of the telecom industry from 1G to 5G is presented and the difference between each generation are discussed in detail by Mr.Kiran. "
+            ]
+        },
+        {
+            "tag": "what_is_scientific_talk_and_technology_demonstration",
+            "patterns": [
+                "What is Scientific Talk and Technology Demonstration?"
+            ],
+            "responses": [
+                " The event commenced with an introduction to CSIR 4PI (Council of Scientific and Industrial Research - 4PI), a prestigious research institute dedicated to cutting-edge research in various scientific domains. The event aimed to showcase the institute's achievements, collaborative nature and ongoing projects while providing insights into intellectual property rights, GNSS (Global Navigation Satellite System) applications in Earth Sciences, data science research projects, atmospheric sciences, climate dynamics, and cybersecurity. "
+            ]
+        },
+        {
+            "tag": "what_is_isro_campus_visit",
+            "patterns": [
+                "What is ISRO Campus Visit?"
+            ],
+            "responses": [
+                " To provide students with practical exposureTo expose students to advanced technologies used in satellite design and manufacturing On a bright morning, the students of the AIML (Artificial Intelligence and Machine Learning) Department from Dayananda Sagar College of Engineering embarked on an exciting industry visit to the Indian Space Research Organization (ISRO). "
+            ]
+        },
+        {
+            "tag": "what_is_aventus",
+            "patterns": [
+                "What is Aventus?"
+            ],
+            "responses": [
+                "Aventus – A National Level HackathonDate:02.06.23 - 03.06.23To encourage participants to think outside the box, explore new ideas, and develop innovative solutions to address real-world problems.To enable participants to enhance their technical skills, problem-solving abilities, and teamwork through hands-on experience.Aventus is a dynamic 24-hour Hackathon hosted by the Department of Artificial Intelligence and Machine Learning, by Dayananda Sagar College of Engineering (DSCE) and is sponsored by Visionet and Cellstrat AI Lab. It is an exciting event that gathers a diverse group of college students to develop innovative solutions that bridge the gap between theoretical and experiential learning."
+            ]
+        },
+        {
+            "tag": "what_is_aventus_–_a_national_level_hackathon",
+            "patterns": [
+                "What is Aventus – A National Level Hackathon?"
+            ],
+            "responses": [
+                "  To encourage participants to think outside the box, explore new ideas, and develop innovative solutions to address real-world problems.To enable participants to enhance their technical skills, problem-solving abilities, and teamwork through hands-on experience. Aventus is a dynamic 24-hour Hackathon hosted by the Department of Artificial Intelligence and Machine Learning, by Dayananda Sagar College of Engineering (DSCE) and is sponsored by Visionet and Cellstrat AI Lab. It is an exciting event that gathers a diverse group of college students to develop innovative solutions that bridge the gap between theoretical and experiential learning. "
+            ]
+        },
+        {
+            "tag": "what_is_adobe_workshop",
+            "patterns": [
+                "What is Adobe Workshop?"
+            ],
+            "responses": [
+                " The workshop aimed to enhance the digital design skills of faculties by providing them with in-depth knowledge of Adobe software and tools.The objective was to equip faculties with the necessary skills to incorporate Adobe tools into their teaching methods, enabling them to create engaging and interactive learning experiences for students. On 29th of May 2023, a workshop jointly organized by Adobe and AICTE was conducted for faculties. The workshop aimed to provide faculties with valuable insights and hands-on training on Adobe software. "
+            ]
+        },
+        {
+            "tag": "what_is_derbi_foundation",
+            "patterns": [
+                "What is Derbi Foundation?"
+            ],
+            "responses": [
+                "The visit aimed to familiarize faculty and students with the DERBI Foundation, a renowned hub for innovation and entrepreneurship. The objective was to gain insights into the various programs, initiatives, and support systems offered by DERBI.The objective was to immerse faculty and students in the startup culture at DERBI Foundation. Through interactions and discussions, they gained exposure to the challenges, successes, and innovative ideas of startups in various domains. Dayananda Sagar College of Engineering, Department of Department of Innovation and Entrepreneurship Development Centre (IEDC) in Association with Institution Innovation Council (IIC) on 23rd May 2023, from 10:30 am to 02:00 pm. Dayananda Sagar Entrepreneurship Research & Business Incubator is a Technology Business Incubator with the objective of supporting startup entrepreneurs. "
+            ]
+        },
+        {
+            "tag": "what_is_know_the_power_of_your_brain",
+            "patterns": [
+                "What is Know the Power of Your Brain?"
+            ],
+            "responses": [
+                "To provide valuable insights about the brain's potential to the attendees.To inspire the attendees to take steps to improve their brain function. On 28th April 2023, the department faculty Dr Renukadevi S attended a technical talk titled \"Know the Power of Your Brain.\" The session was conducted by Dr Kieron O Mahony, the CTO and Co-founder of Hue Learn, based in the United States. "
+            ]
+        },
+        {
+            "tag": "what_is_yukti_innovation_repository_and_innovation_challenge",
+            "patterns": [
+                "What is Yukti Innovation Repository and Innovation Challenge?"
+            ],
+            "responses": [
+                "To provide a platform for students to showcase their innovative projects and solutions.To encourage the creation of business models and startups on sustainable and innovative technologies. The workshop on Yukti Innovation Repository and Innovation Challenge was organized by the AIML department in association with the Department of ETE for the students of the institution on 17th April 2023. This event was a part of the Institution Innovation Council, which is a platform to promote innovation and entrepreneurship among students. "
+            ]
+        },
+        {
+            "tag": "what_is_biology_for_engineers",
+            "patterns": [
+                "What is Biology for Engineers?"
+            ],
+            "responses": [
+                "To ensure that we can understand the bridging between Biology and EngineeringTo promote Networking and Collaboration among like-minded individuals The department faculty Dr Renukadevi S attented 5 days of FDP organized by department of biotechnology on the theme \"Biology for Engineers\" from 17th of April to 21st of April 2023. The keynote speaker was Dr. Mahesh S, Visiting professor, Dept of Biotechnology,DSCE. The training program designed to provide engineering faculty with an understanding of basic biology principles and their applications to engineering "
+            ]
+        },
+        {
+            "tag": "what_is_yukti_project",
+            "patterns": [
+                "What is Yukti Project?"
+            ],
+            "responses": [
+                " To evaluate and recommend the best 10 innovations from the YUKTI project.To identify the potential impact and feasibility of the innovations. YUKTI project/Innovation evaluation for recommending the best 10 innovations was done on 23rd of March 2023, by IIC council members. Dr. Vindhya P Malagi, Convenor, IIC, and Head, Department of AI&ML, was the panel member in the evaluation. "
+            ]
+        },
+        {
+            "tag": "what_is_nvidia_gtc_report",
+            "patterns": [
+                "What is Nvidia GTC Report?"
+            ],
+            "responses": [
+                "  To attend the \"Developer conference of AI and the Metaverse\" organized by NVIDIA GTC.To explore the latest breakthroughs in AI, accelerated computing, and other emerging technologies. On March 21, 2023, students from the AI&ML Department's 3rd and 6th semesters attended the \"Developer conference of AI and the Metaverse\" as part of NVIDIA's GPU Technology Conference (GTC). The conference aimed to explore the latest trends and advancements in AI and accelerated computing. "
+            ]
+        },
+        {
+            "tag": "what_is_photography_&_escape_room_challenge",
+            "patterns": [
+                "What is Photography & Escape Room Challenge?"
+            ],
+            "responses": [
+                "To provide an opportunity for students to showcase their creativity and team working skills through a photography contest and escape room challenge. On March 21, 2023, the AI&ML Department organized a non-technical event for the students of the 3rd and 6th semesters. The event featured a photography contest and an escape room challenge. The event started with a formal inauguration, where the guidelines for the event were explained to the students. "
+            ]
+        },
+        {
+            "tag": "what_is_generative_ai___an_overview_of_gpt/chatgpt_algorithm_and_its_applications.",
+            "patterns": [
+                "What is Generative AI - An Overview of GPT/ChatGPT Algorithm and its Applications.?"
+            ],
+            "responses": [
+                "Generative AI - An Overview of GPT/ChatGPT Algorithm and its ApplicationsDate:19.03.23Introduce students to the concepts of Generative AI and GPT/ChatGPT algorithms..On March 19th, 2023, AI & ML Department students from the 3rd and 6th semesters participated in a webinar titled \"Generative AI - An Overview of GPT/ChatGPT Algorithm and its Applications.\" The session aimed to introduce students to the cutting-edge concepts of Generative AI, focusing on the GPT/ChatGPT algorithms and their potential applications across a wide range of industries."
+            ]
+        },
+        {
+            "tag": "what_is_generative_ai___an_overview_of_gpt/chatgpt_algorithm_and_its_applications",
+            "patterns": [
+                "What is Generative AI - An Overview of GPT/ChatGPT Algorithm and its Applications?"
+            ],
+            "responses": [
+                "Introduce students to the concepts of Generative AI and GPT/ChatGPT algorithms.. On March 19th, 2023, AI & ML Department students from the 3rd and 6th semesters participated in a webinar titled \"Generative AI - An Overview of GPT/ChatGPT Algorithm and its Applications.\" The session aimed to introduce students to the cutting-edge concepts of Generative AI, focusing on the GPT/ChatGPT algorithms and their potential applications across a wide range of industries. "
+            ]
+        },
+        {
+            "tag": "what_is_infosys_springboard",
+            "patterns": [
+                "What is Infosys Springboard?"
+            ],
+            "responses": [
+                " Familiarize students with the Infosys Springboard platform and its offerings. On 17.03.23, as part of the Orientation program, the AI&ML and CSD department jointly organized a session titled \"Overview of Infosys Springboard,\" which was attended by students of the 1st semester. The event featured Pruthvi Adisesha, Senior Associate, Learning-ETA, Infosys Springboard, who provided insights into the platform and its various offerings. "
+            ]
+        },
+        {
+            "tag": "what_is_pre_placement_training___cil",
+            "patterns": [
+                "What is Pre-Placement Training - CIL?"
+            ],
+            "responses": [
+                "To Equip AI&ML students with essential skills for job interviews through dynamic training sessions and individual mock interviews. On the 17th of March, 2023, the placement department organized a \"Dynamic Skills Integrated Program\" for the 6th semester students of the Artificial Intelligence and Machine Learning (AI&ML) department. This comprehensive preplacement training event aimed to prepare students for the competitive job market by equipping them with the necessary skills and knowledge. "
+            ]
+        },
+        {
+            "tag": "what_is_buddy_system_cybersecurity_and_fundamentals_of_linux",
+            "patterns": [
+                "What is Buddy System Cybersecurity and Fundamentals of Linux?"
+            ],
+            "responses": [
+                "To raise awareness of cybersecurity threats and best practicesTo introduce students to Linux fundamentals The Department of AI&ML organised a session on Cybersecurity and Linux on 2nd Feb 2023 for the students of First Semester. Students were made aware of major and minor cybersecurity threats and how to stay safe on the ever evolving internet.Linux fundamentals for students were taught to make students comfortable with the Linux Operating system. The talk highlighted the importance of privacy and general awareness of the web. "
+            ]
+        },
+        {
+            "tag": "what_is_intel_oneapi_online_meeting",
+            "patterns": [
+                "What is Intel oneAPI Online Meeting?"
+            ],
+            "responses": [
+                "To help students understand how to use the oneAPI platformTo guide students in the process of setting up the Intel DevCloud environment Students of various teams clarified their doubts with student ambassador of Intel oneAPI from Sastra university. "
+            ]
+        },
+        {
+            "tag": "what_is_womens_day_and_holi_celebration",
+            "patterns": [
+                "What is Womens Day and Holi Celebration?"
+            ],
+            "responses": [
+                "To promote women empowermentTo celebrate the festivities of Holi· The department of AI & ML faculties celebrated “International Womens day and holi\" on 8th of March 2022. Day filled with laughter, joy, engaged in enjoyable activities and everyone feeling closer and more connected to each other. "
+            ]
+        },
+        {
+            "tag": "what_is_ethnic_day",
+            "patterns": [
+                "What is Ethnic Day?"
+            ],
+            "responses": [
+                "To promote diversity among different cultures and styles.To create an atmosphere suitable for appreciating and learning about various traditions and cultural harmony The department of AI & ML students and faculties participated “Ethnic day\" as a part of centre for performing arts on 7th of March 2022. Everybody came together with memorable style, culture and attire. "
+            ]
+        },
+        {
+            "tag": "what_is_faculty_development_program",
+            "patterns": [
+                "What is Faculty Development Program?"
+            ],
+            "responses": [
+                "Enhance faculty understanding of digital healthcare solutions and their potential applications. The Department of AI & ML faculty members attended a comprehensive 5-day Faculty Development Program (FDP) on \"Crystallizing Problem Statements for Seeking Digital Healthcare Solutions\" from March 6th to 10th. This enriching program was organized by the Department of Medical Electronics Engineering and funded by IEDC/NISP, DSCE "
+            ]
+        },
+        {
+            "tag": "what_is_open_day_visit_to_indian_institute_of_science",
+            "patterns": [
+                "What is Open day visit to Indian Institute of Science?"
+            ],
+            "responses": [
+                "To investigate and learn more about the departmental exhibitions. The department of 3rd semester students and faculties visited \"IISC open Day\" on 4th of March 2023. They got an opportunity to visit the Institute to explore the exciting science and technology initiatives and activities of the Institute "
+            ]
+        },
+        {
+            "tag": "what_is_organic_farming",
+            "patterns": [
+                "What is Organic Farming?"
+            ],
+            "responses": [
+                " To educate attendees about the principles and practices of Terrace Gardening as a form of organic farming. On February 27th, 2023, the Department of AI&ML conducted a session on \"Organic Farming\" as part of its Social Connect and Responsibility (21UH36) activity. The session was presented by Prof. Prameetha Pai, Assistant Professor at BMSCE and expert in Terrace Gardening. "
+            ]
+        },
+        {
+            "tag": "what_is_classes_for_diploma_students",
+            "patterns": [
+                "What is Classes for Diploma Students?"
+            ],
+            "responses": [
+                "To ensure that the diploma students are well-equipped with the knowledge required for their program and are able to cover the syllabus effectively. The department of AI&ML 3rd semester students conducted \" Diploma students- Classes\" as a part of Curriculum on 25th of February 2023. These classes aimed to cover the syllabus and ensure that the diploma students were well-equipped with the knowledge required for their program. "
+            ]
+        },
+        {
+            "tag": "what_is_flam",
+            "patterns": [
+                "What is Flam?"
+            ],
+            "responses": [
+                " To gain a comprehensive understanding of Flam's operations, aspirations, and organizational structure and work insigts. The session was headed by Mr. Chandan, the Community Manager at Flam. The session kicked off with team-building activities designed to break the ice and foster a sense of community among the participants. "
+            ]
+        },
+        {
+            "tag": "what_is_intel_oneapi",
+            "patterns": [
+                "What is Intel oneAPI?"
+            ],
+            "responses": [
+                "To educate attendees about the capabilities and benefits of using the oneAPI toolkit. The department organized the \"Intel oneAPI\" session as a part of Workshop for faculty and students on 20th of February. The speaker of the session was Dr. Shriram Vasudevan, from Intel corporation, Bangalore. "
+            ]
+        },
+        {
+            "tag": "what_is_disruptive_technologies_for_social_change",
+            "patterns": [
+                "What is Disruptive Technologies for Social Change?"
+            ],
+            "responses": [
+                "To encourage creativity and innovation among students Departments of AI&ML and CSBS jointly organised Poster Presentation competition on Disruptive Technologies for Social Change on 20th February 2023 for the first year students of the respective departments. There were 30 teams in total, with an average size of 4 to 5. "
+            ]
+        },
+        {
+            "tag": "what_is_national_science_day_2023",
+            "patterns": [
+                "What is National Science Day 2023?"
+            ],
+            "responses": [
+                " To promote science education and create awareness about the importance of science in our lives. National Science Day 2023 was an event jointly organized by the Department of AI&ML, Maths and Physics, in collaboration with Numerano Club & Mudita, to celebrate the significance of science and technology in our lives. The event took place on 17th February 2023, at PC Sagar Food Court, DCSE. "
+            ]
+        },
+        {
+            "tag": "what_is_syllabus_and_scheme_discussion_with_cognizant",
+            "patterns": [
+                "What is Syllabus and Scheme Discussion with Cognizant?"
+            ],
+            "responses": [
+                " To collaborate with professionals from Cognizant to identify the most relevant and important topics that should be included in the course curriculum. The session was hosted by Cognizant in order to discuss the future course curriculum and value-added courses with Cognizant, a leading technology and consulting company. "
+            ]
+        },
+        {
+            "tag": "what_is_zenken_department_visit",
+            "patterns": [
+                "What is Zenken Department Visit?"
+            ],
+            "responses": [
+                "To facilitate the exchange of knowledge and ideas between the AIML department and Zenken The Japanese team from Zenken visited the AI&ML department and Database Management system lab on 16th of February 2023 in order to initiate collaboration and exchange of ideas. "
+            ]
+        },
+        {
+            "tag": "what_is_minions_of_nature",
+            "patterns": [
+                "What is Minions of Nature?"
+            ],
+            "responses": [
+                " To promote environmental values and InstitutionalSocial Responsibility.To enable STEM (Science, Technology, Engineering,and Mathematics) aspects  The department of AI&ML Inaugrated \"Hydroponics Farming\" on 13th of Febraury 2023 as a part of curriculam(Social connect and responsibility - 21 UH36). 3rd sem students were involved in setting up of Hydroponics at 503 - programming space AI&ML department. The event was Inaugrated by Dr Vindhya P Malagi, HOD of AI&ML department. The main objective is to grow the plant without soil. "
+            ]
+        },
+        {
+            "tag": "what_is_fdp_for_faculty",
+            "patterns": [
+                "What is FDP for Faculty?"
+            ],
+            "responses": [
+                "To provide practical tips and tools for personal and professional developmentTo offer insights into goal-setting, time management, stress management, and work-life balance The department of AI & ML faculties attended the Faculty development program on \"Live your Life\" by Sushma Lingaraj, on 11th of February 2023 from 9:00 am onwards. Which was organized by the Department of Training and Placement, Centre for Innovation and Leadership. "
+            ]
+        },
+        {
+            "tag": "what_is_library_committee_meeting",
+            "patterns": [
+                "What is Library Committee Meeting?"
+            ],
+            "responses": [
+                "To develop strategies for promoting library usage among the students, and to encourage them to make the most of the resources available to them. On February 7th, 2023, a Library Committee Meeting was held in the main library of DSCE. The meeting was organized by the chief librarian and the committee members and was attended by representatives from the department of AI&ML for both the 1st and 3rd semesters. The purpose of the meeting was related to the functioning and management of the library. "
+            ]
+        },
+        {
+            "tag": "what_is_importance_of_data_science_and_machine_learning_applications",
+            "patterns": [
+                "What is Importance of Data Science and Machine Learning Applications?"
+            ],
+            "responses": [
+                " To upskill the faculty members of educational institutions on Artificial Intelligence The AI&ML Department faculty Prof Kavya D N and Prof Ramya K, attended FDP organized by RVITM,Bangalore, on the topic “Importance of DataScience and Machine Learning Applications ” from 6/02/2023 to 10/02/23 from 9am to 4pm. The 5 days of FDP was organized through online mode , the objective was to upskill the faculty members of educational institutions on Artificial Intelligence. "
+            ]
+        },
+        {
+            "tag": "what_is_talk_on_proposal_writing",
+            "patterns": [
+                "What is Talk on Proposal Writing?"
+            ],
+            "responses": [
+                " To provide insights into the importance of proposal writing and the benefits it can bring to various projects.To offer a structured approach to writing proposals for different purposes, including securing funds and research proposals. The department of AI&ML ,DSCE organised session on \"Proposal writing\" as a part of workshop for the faculties on 06th of Febraury 2023 from 4pm to 5pm. The speaker of the event was Dr Vindhya P Malagi, Head of the Department, DSCE. The session was about how to write proposal for funds, Research proposal, normal proposal and scientific importance of the project. "
+            ]
+        },
+        {
+            "tag": "what_is_recruitment_drive_for_ai_bites",
+            "patterns": [
+                "What is Recruitment Drive for AI Bites?"
+            ],
+            "responses": [
+                "o identify talented and promising students with technical skills in photo and video editing using AI.To assess candidates' ability to use software tools like Adobe Photoshop, Premiere Pro, etc. for creating visually appealing content The department of AI & ML had conducted a Recruitment Drive for AI Bites, consisting of Bhuvan, Suprith, Ashwin, Phanindra, and lead by faculty Prof. kavya D N & under the guidance o the head of the department, Dr. Vindhya P Malagi on 1st February 2023. "
+            ]
+        },
+        {
+            "tag": "what_is_workshop_on_innovative_thinking_and_patenting",
+            "patterns": [
+                "What is Workshop on Innovative Thinking and Patenting?"
+            ],
+            "responses": [
+                "Workshop on \"Innovative Thinking and Patenting\"Date:30.01.23 to 01.02.23To educate and engage participants on patent drafting, filing, and protection.To introduce participants to nuances of patent drafting and filing procedure.A 3-day workshop on \"Innovative Thinking and Patenting\" was organized jointly by Department of CSE and AI&ML between 30th of January to 1st of February 2023. The workshop is aimed towards engaging students and faculty members on patent drafting, filing and protection regime."
+            ]
+        },
+        {
+            "tag": "what_is_workshop_on_\"innovative_thinking_and_patenting\"",
+            "patterns": [
+                "What is Workshop on \"Innovative Thinking and Patenting\"?"
+            ],
+            "responses": [
+                "To educate and engage participants on patent drafting, filing, and protection.To introduce participants to nuances of patent drafting and filing procedure. A 3-day workshop on \"Innovative Thinking and Patenting\" was organized jointly by Department of CSE and AI&ML between 30th of January to 1st of February 2023. The workshop is aimed towards engaging students and faculty members on patent drafting, filing and protection regime. "
+            ]
+        },
+        {
+            "tag": "what_is_roots_of_joy",
+            "patterns": [
+                "What is Roots of Joy?"
+            ],
+            "responses": [
+                "To promote environmental values and Institutional Social Responsibility.To enable STEM (Science, Technology, Engineering,and Mathematics) aspects.  The Department of Ai&ML organized a plantation event \"Roots of Joy\" on the 30th of January 2023. The event was held under the guidance of Kavya D N, Assistant Professor, Department of AI&ML, in the presence of faculty members and students. A total of 12 plantings were done (seeds/saplings), one by each team. "
+            ]
+        },
+        {
+            "tag": "what_is_ug_research_society_–_introduction_to_research_papers",
+            "patterns": [
+                "What is UG Research Society – Introduction to Research Papers?"
+            ],
+            "responses": [
+                " To discuss different types of research papersTo understand how to write a good research paper Department has organised an online session \"UG research society\" on 29.12.22 . The speaker of the event was Dr Vindhya P Malagi, Head of the Department, DSCE. The major goal is to help students understand the significance of ResearchSociety and to gain knowledge about how to write effective research articles. "
+            ]
+        },
+        {
+            "tag": "what_is_google_cloud_computing",
+            "patterns": [
+                "What is Google Cloud Computing?"
+            ],
+            "responses": [
+                "To understand and learn about Cloud Computing.To explore Research and Development projects of IIT Bombay. 10 students from department of AI&ML has attended workshop on \"Google Cloud Computing\" organized by IIT Bombay on 16th, 17th and 18th December 2022. Students got an opportunity to visit the \"TECHCONNECT\" which was the R&D activities of the college. Helped students to understand the working of Gcloud through various hands-on sessions that were conducted during the workshop "
+            ]
+        },
+        {
+            "tag": "what_is_vihaanam__mudita",
+            "patterns": [
+                "What is Vihaanam- Mudita?"
+            ],
+            "responses": [
+                "The club students of Mudita, DSCE has initiated the visit for students of class 8, 9, 10th grade from Rani Saraladevi School(Government High School) on 9.12.22. The students have visited various department of DSCE to gain knowledge, motivating towards technical courses and career guidence."
+            ]
+        },
+        {
+            "tag": "what_is_ltimindtree_industrial_visit",
+            "patterns": [
+                "What is LTIMindtree Industrial Visit?"
+            ],
+            "responses": [
+                "To bridge the gap between industry and academia The speakers, Mr. Shrisha and Mr. Bharat, were from the LTIMindtree group and specialized in the AI domain. This helped students to understand the difference between a hypothetical problem and a real-world problem. "
+            ]
+        },
+        {
+            "tag": "what_is_the_ai_disruption___innovations_in_computer_vision_and_text_processing",
+            "patterns": [
+                "What is The AI Disruption - Innovations in Computer Vision and Text Processing?"
+            ],
+            "responses": [
+                "Department has organized an tech talk event “The AI Disruption –Innovation in Computer Vision and Text Processing”. The speaker of the event,Mr. Vivek Singhal, is the chief data scientist at Cellstrat Hub. To help students to understand feature engineering and style transfer within AI&ML. "
+            ]
+        },
+        {
+            "tag": "what_is_interaction_with_intel_corporation_for_collaboration",
+            "patterns": [
+                "What is Interaction with Intel Corporation for Collaboration?"
+            ],
+            "responses": [
+                "An interaction with Dr. Shriram Vasudevan, Lead Technical Evangelist, Academic Collaborations, Intel Corporation, on 29th of November 2022 by Dr. Vindhya P Malagi, Prof. & Head, AI&ML, DSCE, towards collaboration with Intel for AI&ML curriculum and Faulty Enablement Program on their OneAPI Ecosystem. "
+            ]
+        },
+        {
+            "tag": "what_is_importance_of_verbal_reasoning_and_group_discussions",
+            "patterns": [
+                "What is Importance of Verbal Reasoning and Group Discussions?"
+            ],
+            "responses": [
+                "Department has organized “Importance of Verbal Reasoning and Group Discussions” as a part of placement session,The speaker of the event, Mr.Mageshwaran, who is an esteemed speaker from TCS. To help students to understand importance of verbal reasoning and applications. "
+            ]
+        },
+        {
+            "tag": "what_is_internship_for_cell_strat",
+            "patterns": [
+                "What is Internship for Cell Strat?"
+            ],
+            "responses": [
+                "Date:1.11.2022 to 22.11.2022 Department has organized the event, \"A 3-week Internship Accelerate ML\", the Speaker of the event was Mr.Vivek Singhal an inustry expert, worked at CellStrat-Hub Platform. To help students to build an A1-Product and to participate in an Internship program. "
+            ]
+        },
+        {
+            "tag": "what_is_towards_ai_talks–_building_ml_pipelines",
+            "patterns": [
+                "What is Towards AI Talks– Building ML Pipelines?"
+            ],
+            "responses": [
+                "The department of AI&ML, DSCE organized “Towards AI talks– Building ML Pipelines ” for the 5th semester students on 17th November from 2PM to 3PM. The speaker of the event, Ms.Tanupriya Singh is a Machine Learning Engineer at Expedia and has been selected as a Google APAC Women Tech Makers Scholar. She gave a brief introduction of herself before going into depth about her job at Expedia. "
+            ]
+        },
+        {
+            "tag": "what_is_pega_systems_architect_essentials",
+            "patterns": [
+                "What is PEGA systems Architect Essentials?"
+            ],
+            "responses": [
+                "Department 3rd semester students were participated an internship \"Pega Systems Architech Essentials\" Organized by CSD department, DSCE. The speaker of the event was Mr. Deepak Rajendran as a Manager, Trainer and Enablement at Pegasystems worldwide India Pvt.Ltd. It helps students to understand and to build an application with low code technology. "
+            ]
+        },
+        {
+            "tag": "what_is_the_robotics_and_it’s_applications",
+            "patterns": [
+                "What is The Robotics and it’s Applications?"
+            ],
+            "responses": [
+                "The department of AI&ML has organized a talk on “The Robotics and it’s Applications” for the 5th semester students on 3rd November 9.30AM to 1.30PM. The speaker of the event was Dr. T.M Manujunath, HOD of ECE at DSCE. He explained about the working of the robots through videos, which helped the students to understand the applications visually. "
+            ]
+        },
+    
+        {
+            "tag": "what_is_research_supervisor_details:",
+            "patterns": [
+                "What is Research Supervisor Details:?"
+            ],
+            "responses": [
+                "​Research SupervisorGoogle scholar linkRegistered UniversityNo. of Students GuidingNo. of students Completed PhD under supervision1.Dr Vindya P Malagihttps://scholar.google.com/citations?user=dR7Sn8QAAAAJ&hl=en&authuser=1VTU3Nill2.Dr. Aruna M Ghttps://scholar.google.com/citations?hl=en&user=RWj7lT8AAAAJVTUNillNill"
+            ]
+        },
+        {
+            "tag": "what_is_research_scholar_details:",
+            "patterns": [
+                "What is Research Scholar Details:?"
+            ],
+            "responses": [
+                "​Research ScholarGuide nameRegistered UniversityResearch AreaYear of RegistrationStatus1.Prof. Asha KDr. Prabhudev JagadeeshVTUMachine Learning2021Applied for Coursework Exams2.Prof. Rashmi KDr. Jyothi RVTUImage Processing2022Yet to Registster"
+            ]
+        },
+        {
+            "tag": "what_is_patent_details:",
+            "patterns": [
+                "What is Patent Details:?"
+            ],
+            "responses": [
+                "Ananya, Dr.Archudha , Dr. Reshma , Prof. Ensteih Silvia and Prof. Deepshree B published patent under the title “NANO GUARDIANS: TRANSFORMATIVE MICROBOTS FOR AQUATIC ECOSYSTEM ” It was filed and published. ACloud Based Female Security Device, by Prof. Ramya K, Prof. Asha K , Prof. Rashmi K (11 January 2024) Design no. : 400309-001Image Sequence Characterization for Object Tracking Test Result Interpretation, by Dr. Vindhya P Malagi, Dr. Krishnan Rangarajan, Dr. Ramesh Babu D R (22 December 2023) Application no: 202341080131 AApproach to Test Occlusion Handling in Tracking Algorithms, by Dr. Krishnan Rangarajan, Dr. Vindhya P Malagi, Dr. Ramesh Babu D R (22 December 2023) Application no: 202341080133 AMeager- A Notification Filter for Chat Applications using text, by Dr. Archudha A and Prof. Kavya D N (22 December 2023) Application no: 202341080128 ASmartwell- Personalized Wellness Insights Powered by Machine Learning, by Dr. Archudha A and Prof. Kavya D N (22 December 2023) Application no:202341080639 AArtificial Intelligence Driven Data Processing Platform, by Kavya D N and et al., (05 September 2023) Patent Number: 6298639, Available: www.gov.uk/ipoNLP Processing Server Equipment, by Dr. Smitha Sasi, Dr. Anju Vijayakumar Kulkarni, Dr. Vindhya Prasanna Malagi, Kavya Doddamane Nagaraja. (2023, August 01). Patent Number [6298493]. Available: www.gov.uk/ipoNamitha K and Cia Shetty student of 5th semester, along with professor Vindhya P Malagi filed a patent on \"ChargeDis\"- one Destination to women's menstrual Health Queries at Indian patent office on 30th Dec 2022, Patent Application number:202241069875.Vindhya P Malagi has filed a patent on “Alerting System for Identification of Public Without Mask” on May 01, 2021, Patent Application number: 202141020021 and published on 31st May 2021.Dr. Vindhya P Malagi received the Australian Government Certificate of Grant under Innovation, for the Patent titled \"Automated Location Identification System using Text and Image Data\", under Patent No. 2021100154 dated 31st of March 2021 for a period of 8 years.Dr.Preeti Satish & Prof.Swetha.M.D filed an Indian Patent with PATENT TITLE: “Automated Diagnosis of Multiple Sclerosis Lesions in Normal Appearing White Matter from Brain MRI on Routine MRI Sequence”."
+            ]
+        },
+        {
+            "tag": "what_is_➺2023",
+            "patterns": [
+                "What is ➺2023?"
+            ],
+            "responses": [
+                "Sunil Kumar, V.,Renukadevi, S., Yashaswini, B.M., Malagi, V.P.and Pareek, P.K., 2023, February. Feature Fusing with Vortex-Based Classification of Sentiment Analysis Using Multimodal Data. In International Conference on Emerging Research in Computing, Information, Communication and Applications."
+            ]
+        },
+        {
+            "tag": "what_is_➺2022",
+            "patterns": [
+                "What is ➺2022?"
+            ],
+            "responses": [
+                "Mathew, R., Paul, J., Jamadagni, R., Shruthii, R.G. and Malagi, V., 2022, April. A Comprehensive Study on Hardware and Software Based Accident Detection Systems. In Proceedings of the International Conference on Innovative Computing & Communication (ICICC)."
+            ]
+        },
+        {
+            "tag": "what_is_scrs_–_edge_of_tomorrow_unleashing_the_potential_of_edge_computing",
+            "patterns": [
+                "What is SCRS – Edge of Tomorrow-Unleashing the Potential of Edge Computing?"
+            ],
+            "responses": [
+                " Share in-depth insights into the fundamental concepts and principles of edge computing.Increase awareness among participants about the applications and significance of edge computing in modern technology landscapes. Date:18-12-23 On December 18 th 2023, the Department of Artificial Intelligence and Machine Learning in Association with Soft Computing Research Society (SCRS)-Student chapter at Dayananda Sagar College of Engineering organized a session titled \"Edge of Tomorrow: Unleashing the Potential of Edge Computing.\" The esteemed speaker for this insightful session was Mr. Naman Sinha, a Senior Software Engineer at Fractal. Mr. Sinha, drawing from his extensive experience, delivered a comprehensive briefing on the fundamental concepts of edge computing. ."
+            ]
+        },
+        {
+            "tag": "what_is_scrs_–_e_talk_on_linkedin_profiling",
+            "patterns": [
+                "What is SCRS – E-Talk on LinkedIn Profiling?"
+            ],
+            "responses": [
+                "To understand the significance of LinkedIn social network Date:16-09-23 Students of AI&ML, DSCE attended the SCRS e-talk, organized by Babu Banarasi Das University, Lucknow, Technically sponsored by SCRS Students’ Chapter, New Delhi on 16 th September 2023 on “LinkedIn Profiling”. The speaker for the event was Mr. Jaisheel Chhtrawala, Senior Computer Vision Engineer, L&T Technology Services, Germany. ."
+            ]
+        },
+        {
+            "tag": "what_is_scrs_–_social_network_analysis",
+            "patterns": [
+                "What is SCRS – Social Network Analysis?"
+            ],
+            "responses": [
+                "To understand the importance of data protection and privacy Date:28-12-2022 The session on \"National Seminor Social Network Analysis\" was organized by the SCRS Student Chapter on 28thDecember from 2PM to 4PM. The speaker, Dr. Tanmoy Chakraborthy, an Associate Professor and Ramanujan Fellow from the Dept. of Electrical Engineering (Computer Technology Group) at Indian Institute of Technology Delhi (IIT Delhi), India. He was explaining the different types of networks such as power law, small world network property, degree of separation and the type of community structures, which helped students to get idea and how to work."
+            ]
+        },
+        {
+            "tag": "what_is_discovering_the_essentials_of_cyber_defense,_join_the_cyber_squad",
+            "patterns": [
+                "What is Discovering the Essentials of Cyber Defense, Join the Cyber Squad?"
+            ],
+            "responses": [
+                "The Cybersecurity Skill Development Program commenced with a captivating session led by Mr. Nandi Dharma Kishore HN, setting the tone for an immersive exploration of cybersecurity essentials. Mr. Kishore HN eloquently articulated the critical role of cybersecurity in today's interconnected world, emphasizing its significance in protecting sensitive information and fortifying organizational resilience against the evolving landscape of cyber threats. Participants were introduced to the multifaceted nature of cybersecurity, gaining a comprehensive understanding of its pivotal role in maintaining trust and security in digital transactions. "
+            ]
+        },
+        {
+            "tag": "what_is_full_stack_forge:_crafting_web_solutions",
+            "patterns": [
+                "What is Full Stack Forge: Crafting Web Solutions?"
+            ],
+            "responses": [
+                "The Full Stack Development Workshop held on February 3rd to 8th was an insightful hands-on event aimed at providing participants with a comprehensive understanding of full stack development. Renowned industry expert Raghunandan led the workshop, delivering a detailed introduction to full stack development and guiding attendees through various aspects of the field. Date:3rd-8th Feb 2024 "
+            ]
+        },
+        {
+            "tag": "what_is_edge_ai_skill_lab_in_collaboration_with_st_microelectronics",
+            "patterns": [
+                "What is Edge AI Skill Lab in Collaboration with ST Microelectronics?"
+            ],
+            "responses": [
+                "The event began with meet and greet and MoU singing at principal office. Then session started with a welcoming through flower bouquet to the Director, Mr. Rohit Prajapati, Application Engineer, Mr. Naveen Kumar, and Ambika Singh, Inside Sales Representative during inauguration of Edge AI digital kit and brief overview about the EdgeAI by Dr Aruna M G Date:26-08-2024 "
+            ]
+        },
+        {
+            "tag": "what_is_significance_of_open_source_tools_and_introduction_to_mean_mern_stack",
+            "patterns": [
+                "What is Significance of Open Source Tools and Introduction to Mean-Mern Stack?"
+            ],
+            "responses": [
+                "The Department of Artificial Intelligence and Machine Learning at Dayananda Sagar College of Engineering successfully organized a 2-day Workshop on “SIGNIFICANCE OF OPEN SOURCE TOOLS AND INTORDUCTION TO MEAN-MERN STACK.” This insightful event, held from 23rd August 2024 to 24th August 2024 . Date:23-08-2024 to 24-08-2024 "
+            ]
+        },
+        {
+            "tag": "what_is_infosys_springboard_summit",
+            "patterns": [
+                "What is Infosys Springboard Summit?"
+            ],
+            "responses": [
+                "On 23rd of August  2024, Shashank, a 7th-semester student from the Artificial Intelligence and Machine Learning (AIML) Department, attended the Infosys Springboard Summit, an event dedicated to showcasing innovations in digital education. The summit served as a platform for thought leaders, educators, and industry experts to come together and discuss the future of learning in an increasingly digital world. "
+            ]
+        },
+        {
+            "tag": "what_is_mini_project_open_day",
+            "patterns": [
+                "What is Mini Project Open Day?"
+            ],
+            "responses": [
+                "Mini Project Demo on Integrated Innovation Challenges."
+            ]
+        },
+        {
+            "tag": "what_is_from_campus_to_corporate_effective_placement_preparation",
+            "patterns": [
+                "What is From Campus to Corporate Effective Placement Preparation?"
+            ],
+            "responses": [
+                "The session aimed to equip students with essential skills and strategies for successful placement preparation, providing insights into how they can transition smoothly from academic life to a professional career."
+            ]
+        },
+        {
+            "tag": "what_is_the_innovation_edge_advances_in_high_performance_computing",
+            "patterns": [
+                "What is The Innovation Edge Advances in High Performance Computing?"
+            ],
+            "responses": [
+                "The session aimed to introduce students to the fundamentals of high performance computing (HPC) and provide insights into how they can leverage HPC technologies to build a successful career in various fields of technology and research.  "
+            ]
+        },
+        {
+            "tag": "what_is_session_on_business_strategy",
+            "patterns": [
+                "What is Session On Business Strategy?"
+            ],
+            "responses": [
+                "A seminar on Business Strategy aimed at enhancing the understanding of strategic planning and decision-making in the business world."
+            ]
+        },
+        {
+            "tag": "what_is_code_a_thon",
+            "patterns": [
+                "What is CODE-A-THON?"
+            ],
+            "responses": [
+                "A Code Optimization Challenge aimed at enhancing the understanding of algorithms and problems solving in IT success. "
+            ]
+        },
+        {
+            "tag": "what_is_linguistic_leap_hackathon",
+            "patterns": [
+                "What is LINGUISTIC LEAP HACKATHON?"
+            ],
+            "responses": [
+                "This dynamic event aims to push the boundaries of language technology by fostering innovation and collaboration among participants."
+            ]
+        },
+        {
+            "tag": "what_is_parent_teacher_meeting",
+            "patterns": [
+                "What is Parent-Teacher Meeting?"
+            ],
+            "responses": [
+                "The Parent-Teacher Meeting (PTM) for the Department of AI&ML at DSCE was held on the 22nd of June, 2024. The meeting commenced with a brief presentation showcasing the Department of AIML."
+            ]
+        },
+        {
+            "tag": "what_is_the_art_of_immersion:_designing_for_virtual_and_mixed_reality",
+            "patterns": [
+                "What is THE ART OF IMMERSION: DESIGNING FOR VIRTUAL AND MIXED REALITY?"
+            ],
+            "responses": [
+                "The Department of AIML and CSD at DSCE successfully organized a 3-day Workshop on THE ART OF IMMERSION: DESIGNING FOR VIRTUAL AND MIXED REALITY.\" This insightful event, held from March 6th June to 8th June 2024 Date:06-06-2024 To 08-06-2024"
+            ]
+        },
+        {
+            "tag": "what_is_aventus_2.0___national_level_hackathon",
+            "patterns": [
+                "What is Aventus 2.0 - National Level Hackathon?"
+            ],
+            "responses": [
+                "Aventus was a 24-hour national-level hackathon organized by the AIML department, featuring four exciting tracks: AI/ML, Cyber Intelligence, Web 3.0, and Gaming AR/VR. The event was generously sponsored by CellStrat, Nuevera Infotech, Sandlogic, Canam, and individual sponsors Vishnu Prabhu and Dr. Pratima Khandelwal."
+            ]
+        },
+        {
+            "tag": "what_is_anokhya",
+            "patterns": [
+                "What is ANOKHYA?"
+            ],
+            "responses": [
+                "Anokhya is a 2-day tech fest organized by the Dept of AI&ML under the aegis of the DSCE Innovation Council and SCRS Students Chapter. This vibrant event features seven engaging tech competitions: Meme Splash, UI/UX Design, PC Building, Picture Probe, Tech Tinder, Code Relay, and Gaming, each offering unique challenges and learning experiences."
+            ]
+        },
+        {
+            "tag": "what_is_project_open_day_2024",
+            "patterns": [
+                "What is Project Open Day 2024?"
+            ],
+            "responses": [
+                "The Dept of AI&ML at DSCE hosted its annual Project Open Day on May 11, 2024. This event showcased the final year projects of students, providing them with an opportunity to present their innovative work to an audience that included faculty members, nonteaching staff, peers, and distinguished guests from the industry."
+            ]
+        },
+        {
+            "tag": "what_is_samsung_&_cocreate_ideathon_session",
+            "patterns": [
+                "What is Samsung & CoCreate Ideathon Session?"
+            ],
+            "responses": [
+                "Recently, 40 students from our college, with ten each from the AI & ML, CSD, IS, and CS branches, participated in the Samsung & CoCreate Ideathon hosted at BIT. This event presented a fantastic opportunity for our students to collaborate with other innovative minds from diverse backgrounds. Throughout the ideation, students eagerly engaged in developing their projects, driven by the inspiration and insights gained from various workshops and sessions provided by the esteemed platform."
+            ]
+        },
+        {
+            "tag": "what_is_expert_talk_on_research_methodology_and_intellectual_property_rights",
+            "patterns": [
+                "What is Expert Talk on Research Methodology and Intellectual Property Rights?"
+            ],
+            "responses": [
+                "Dr. Shreyas delivered a comprehensive and enlightening talk on research methodology and intellectual property rights, providing invaluable insights into the fundamental aspects of research. He elucidated the essence of research, delving into the systematic investigation and analysis of subjects to expand knowledge and contribute to existing academic discourse. Dr. Shreyas elucidated the intricacies of conducting research, offering practical guidance on the methodologies, frameworks, and ethical considerations involved in the research process."
+            ]
+        },
+
+        {
+            "tag": "what_is_vision_board",
+            "patterns": [
+                "What is VISION BOARD?"
+            ],
+            "responses": [
+                "Vision Board Creation Event gave students an opportunity to represent their desires and aspirations for a fulfilling life. Students had fun creating the Vision Board as it served as an invaluable tool to motivate and inspire them towards concrete daily action in pursuit of their biggest and most important life goals."
+            ]
+        },
+        {
+            "tag": "what_is_tech_talk",
+            "patterns": [
+                "What is Tech-Talk?"
+            ],
+            "responses": [
+                "Tech-Talk (” What AI means for Enterprise Today & your Readiness for Tomorrow) by Mr. Ajit Paul, Stanford Seed Consultant, Business Transformation Advisor @ Digital i2o, Co-Founder-Giftolexia Solutions Pvt. Ltd."
+            ]
+        },
+        {
+            "tag": "what_is_vision_craft",
+            "patterns": [
+                "What is Vision Craft?"
+            ],
+            "responses": [
+                "The Department of Artificial Intelligence and Machine Learning at DSCE recently hosted \"Vision Craft,\" a dynamic tech event. This platform enabled 2nd and 3rd-year students to demonstrate their creativity and technical expertise by designing laboratory sandwich boards. Each team focused on specific domains, enriching the event with diverse specializations."
+            ]
+        },
+        {
+            "tag": "what_is_discovering_the_essentials_of_cyber_defense",
+            "patterns": [
+                "What is Discovering The Essentials of Cyber Defense?"
+            ],
+            "responses": [
+                "The Student Development Program on Cyber Defense, conducted by Ashtaksha Lab Pvt Ltd., offered crucial insights into contemporary cybersecurity practices. Held under the auspices of our MoU with Ashtaksha Lab, this program aimed to enhance students' proficiency in essential defense mechanisms. Participants engaged with advanced tools and techniques, equipping them for the dynamic landscape of cyber threats."
+            ]
+        },
+        {
+            "tag": "what_is_kscst_project_funding",
+            "patterns": [
+                "What is KSCST Project Funding?"
+            ],
+            "responses": [
+                "Three project teams were selected for the prestigious 47th series of the KSCST Student Project Programme, a government initiative. Under the expert guidance of Dr. Vindhya P. Malagi, Prof. Kavya D. N., and Prof. Ramya K., these teams showcased innovative solutions to real-world challenges. This platform enabled students to apply theoretical knowledge practically, benefiting from invaluable mentorship and contributing to advancements across various disciplines."
+            ]
+        },
+        {
+            "tag": "what_is_aventus",
+            "patterns": [
+                "What is Aventus?"
+            ],
+            "responses": [
+                "The Department of AIML organized Aventus(A National Level Hackathon)"
+            ]
+        },
+        {
+            "tag": "what_is_anokhya",
+            "patterns": [
+                "What is Anokhya?"
+            ],
+            "responses": [
+                "In collaboration with the DSCE Innovation Council and as part of the SCRS Student Chapter (Soft Computing Research Society), ANOKHYA Tech Fest showcased significant technological advancements and fostered a culture of innovation. This esteemed event provided a platform for students and professionals to present their cutting-edge projects and ideas. Participants engaged in workshops, competitions, and networking opportunities, gaining valuable insights from industry leaders."
+            ]
+        },
+        {
+            "tag": "what_is_minds_in_the_cloud",
+            "patterns": [
+                "What is Minds in the Cloud?"
+            ],
+            "responses": [
+                "The Department of Artificial Intelligence and Machine Learning at Dayananda Sagar College of Engineering organized an expert talk titled \"Minds in the Cloud: Exploring Cloud-based Machine Learning.\" Aimed at 6th-semester students of the Cloud Computing and Big Data Analytics course, the session featured Mr. Naman Sinha, Tech Lead AI at Zeiss. Mr. Sinha shared his extensive insights on the integration of cloud computing with AI and machine learning. He emphasized the impact of these technologies on scalability, flexibility, and cost-efficiency in business operations."
+            ]
+        },
+        {
+            "tag": "what_is_ar/vr_workshop",
+            "patterns": [
+                "What is AR/VR Workshop?"
+            ],
+            "responses": [
+                "A three-day workshop titled \"The Art of Immersion: Designing for Virtual and Mixed Reality\" featured Mr. Mugundhan R, an XR Unity Developer at HCL. Organized by the AI & ML Department, the event provided hands-on sessions and valuable insights into VR and MR technologies. Participants engaged in practical exercises, enhancing their understanding of immersive design. The workshop fostered collaboration and innovation in the rapidly evolving field of XR development."
+            ]
+        },
+        {
+            "tag": "what_is_lumina",
+            "patterns": [
+                "What is Lumina?"
+            ],
+            "responses": [
+                "A cultural event titled Lumina was organized by the Department of AI & ML, celebrating a vibrant tapestry of performances and expressions. The event featured a diverse array of acts, including group dances, duets, and solo performances, showcasing the talent and creativity of the participants. With a lively atmosphere, Lumina brought together the community to appreciate the arts and foster cultural engagement."
+            ]
+        },
+        {
+            "tag": "what_is_value_added_course",
+            "patterns": [
+                "What is Value Added Course?"
+            ],
+            "responses": [
+                "The mandatory value-added course included 30 hours of lectures and hands-on sessions on Game Development Framework and Linux Programming. Students developed practical skills in game design and Unix systems, enhancing their technical proficiency. This course effectively combined theory with real-world applications, equipping students to meet industry challenges and complementing their academic curriculum."
+            ]
+        },
+        {
+            "tag": "what_is_mou_with_finplify",
+            "patterns": [
+                "What is MOU with Finplify?"
+            ],
+            "responses": [
+                "This MoU is intended to recognize the general basis for a cooperative and a collaborative working relationship between the AI&ML Department, DSCE and Finplify Technologies."
+            ]
+        },
+        {
+            "tag": "what_is_engineering_conclave_2023",
+            "patterns": [
+                "What is Engineering Conclave 2023?"
+            ],
+            "responses": [
+                "The Department of AIML organized Engineering Conclave 2023"
+            ]
+        },
+        {
+            "tag": "what_is_project_open_day",
+            "patterns": [
+                "What is Project Open Day?"
+            ],
+            "responses": [
+                "The Department of AIML organized Innovation Competition on Project Open Day"
+            ]
+        },
+        {
+            "tag": "what_is_dsu_innovation_lab_visit",
+            "patterns": [
+                "What is DSU Innovation Lab Visit?"
+            ],
+            "responses": [
+                "On the 23rd and 27th of June 2023, an exciting visit to the DSU Innovation Lab was organized for the 2nd and 4 th -semester students of the AI & ML department at DSCE. The visit aimed to provide students with a comprehensive understanding of the state-of-the-art technologies and research being conducted at the innovation lab."
+            ]
+        },
+        {
+            "tag": "what_is_intel_oneapi_bootcamp",
+            "patterns": [
+                "What is Intel oneAPI Bootcamp?"
+            ],
+            "responses": [
+                "The Department of AIML organized a two-day bootcamp on Intel oneAPI, led by Akshay Ramakrishnan, an Intel ambassador. It was held on 12th and 13th April for the 6th semester students with a deep dive into the key features and benefits of Intel oneAPI, along with hands-on exercises and real-world examples to illustrate its potential."
+            ]
+        },
+        {
+            "tag": "what_is_dsce_ai_hack_day___generative_ai_revolution",
+            "patterns": [
+                "What is DSCE AI Hack Day - Generative AI Revolution?"
+            ],
+            "responses": [
+                "The \"DSCE AI Hack Day\" was a highly anticipated event jointly organized by the Department of Artificial Intelligence and Machine Learning (AIML) and CellStrat, a leading organization in the field of Artificial Intelligence (AI) and Machine Learning (ML). The hackathon took place on April 11, 2023, and lasted for 12 hours, from 7AM to 7PM, at the DSCE."
+            ]
+        },
+        {
+            "tag": "what_is_intel_oneapi_student_ambassador",
+            "patterns": [
+                "What is Intel oneAPI Student Ambassador?"
+            ],
+            "responses": [
+                "The AIML department 6th sem students Nishank, Manikanta and Kuber has been selected as Student Ambassadors for Intel oneAPI on 4.4.23. This program is focused on undergraduate and graduate students who are passionate about technology and working with developer communities to promote learning, sharing, and collaboration. It provides opportunities for students to enhance their oneAPI skills, expand their network, and learn about the cutting-edge Intel ® hardware and software products."
+            ]
+        },
+        {
+            "tag": "what_is_neuberg_anand_laboratory",
+            "patterns": [
+                "What is Neuberg Anand Laboratory?"
+            ],
+            "responses": [
+                "Dr. Vindhya P Malagi, Head of AI&ML at DSCE, delivered a keynote talk on \"Data Science of Health Informatics\" at CME, Neuberg Anand Academy of Laboratory Medicine on 25th of march 2023. The talk aimed to educate the audience on the significance of health data analysis and utilization towards better patient care and business prospects. The audience included doctors, lab technicians, data scientists, academicians, medical and engineering students, and biochemistry professionals."
+            ]
+        },
+        {
+            "tag": "what_is_intel_oneapi_hackathon",
+            "patterns": [
+                "What is Intel oneAPI Hackathon?"
+            ],
+            "responses": [
+                "The Department of Artificial Intelligence and Machine Learning (AI&ML) organized an exciting intra-department \"Intel oneAPI Hackathon\" on March 20, 2023, as part of the innovation challenge sponsored by Intel. The event aimed to encourage students to harness the potential of Intel's oneAPI platform in developing cutting-edge AI solutions."
+            ]
+        },
+        {
+            "tag": "what_is_book_publication",
+            "patterns": [
+                "What is Book Publication?"
+            ],
+            "responses": [
+                "Dr Vindhya P Malagi , HOD of department AI&ML has published a book \"Cryptography in 5G communication and artificial intelligence\" "
+            ]
+        },
+        {
+            "tag": "what_is_future_of_ai",
+            "patterns": [
+                "What is Future of AI?"
+            ],
+            "responses": [
+                "The department organized an event \"Future of AI\" as a part of technical talk on 28th of February 2023.To understand how engineering, Computer Science and Artificial Intelligence can be used to impact every major area of work."
+            ]
+        },
+        {
+            "tag": "what_is_coding_challenge",
+            "patterns": [
+                "What is Coding Challenge?"
+            ],
+            "responses": [
+                "The department of AI&ML conducted \"Coding Challenge Competition\" for 3rd semester students as a part of curriculum on 27th of Febraury 2023. 29 students participated in this exciting event."
+            ]
+        },
+        {
+            "tag": "what_is_industry_visit_flam__a_social_metaverse",
+            "patterns": [
+                "What is Industry visit Flam- A social Metaverse?"
+            ],
+            "responses": [
+                "The department 6th semester students visited \" Flam- A social Metaverse company\" as a part of Industry visit on 23rd of February 2023. To gain a comprehensive understanding of Flam's operations, aspirations, and organizational structure and work insigts"
+            ]
+        },
+        {
+            "tag": "what_is_mou_with_flam_(metaverse)",
+            "patterns": [
+                "What is MoU with FLAM (Metaverse)?"
+            ],
+            "responses": [
+                "The AI&ML Department, DSCE, and Flam - signed an MOU on 13th of February 2023. As part of the MoU, Flam will offer several opportunities to students, including internships, workshops, techtalks, and curriculum enrichment programs."
+            ]
+        },
+        {
+            "tag": "what_is_neuberg_research_lab_internship_visit",
+            "patterns": [
+                "What is Neuberg research lab internship visit?"
+            ],
+            "responses": [
+                "8 students from AI&ML Department, 5th semester have visited \"Neuberg research lab\" as a part of internship on 27th of January 2023 from 10.30AM to 10.30PM. There was a discussion with students about the challenges and problem faced by lab personnel in the process of strip result detection and the ways to automate it to improve accuracy to serve patients ."
+            ]
+        },
+        {
+            "tag": "what_is_entrepreneur_skill,_attitude_and_behaviour_development",
+            "patterns": [
+                "What is Entrepreneur Skill, Attitude and Behaviour Development?"
+            ],
+            "responses": [
+                "On January 23rd, 2023, the Department organized a comprehensive workshop titled \"Entrepreneur Skill, Attitude, and Behavior Development.\" The event featured Akshaj Jain, Founder of Stealth AI & Innovation at Carnegie Mellon University, as the guest speaker.The speaker also provided valuable guidance on business analysis and strategy, equipping students with the knowledge to develop and implement effective plans for their future ventures."
+            ]
+        },
+        {
+            "tag": "what_is_process_of_innovation_development",
+            "patterns": [
+                "What is Process of Innovation Development?"
+            ],
+            "responses": [
+                "The department of AI&ML organised an event “Process of Innovation Development, Technology Readiness Level, Commercialization of Lab Technologies and Tech Transfer” as a part of expert talk for first year students on 11th of January 2023. The speaker of the event was Mr. Vivek Singhal, Co-founder & Chief Data Scientist, Cellstrat. The speaker emphasized on the importance of building a team with a clear objective and and understanding nuances of technical, Sales & Marketing expertise to help the business from initial phase to business inception and beyond."
+            ]
+        },
+        {
+            "tag": "what_is_internet_of_things",
+            "patterns": [
+                "What is Internet of Things?"
+            ],
+            "responses": [
+                "Dr Renukadevi S, faculty of department AI&ML has published a book on Internet of Things dated on 3rd December 2022"
+            ]
+        },
+        {
+            "tag": "what_is_cellstart",
+            "patterns": [
+                "What is Cellstart?"
+            ],
+            "responses": [
+                "The AI&ML Department ,DSCE and Cellstart- AI Disruption signed an MOU on 30th Nov 22 at 11.30am."
+            ]
+        },
+        {
+            "tag": "what_is_track_winner",
+            "patterns": [
+                "What is Track Winner?"
+            ],
+            "responses": [
+                "5th sem students Manikanta, Nishank, Akhil and Shreyas participated in Hackathon \"Track Winner\" held at MSRIT, Bangalore on 26th and 27th November and won cash prize of Rs 25,000."
+            ]
+        },
+        {
+            "tag": "what_is_diffuseai_hackathon",
+            "patterns": [
+                "What is DiffuseAI Hackathon?"
+            ],
+            "responses": [
+                "Department 3rd sem students participated in Hackathon \"DiffuseAI hackathon\"held at BMSCE, Bangalore on 25th and 26th Nov hosted by Cellstrat - An AI product company and won 3rd place. Students were placed as product interns at Cellstart."
+            ]
+        },
+        {
+            "tag": "what_is_ug_research_society_inauguration",
+            "patterns": [
+                "What is UG Research Society Inauguration?"
+            ],
+            "responses": [
+                "The department of AI&ML, DSCE inaugurated the “UG Research Society” on 23rd october 2022 from 12PM to 1PM. This society was setup for the undergraduate students to encourage them into research."
+            ]
+        },
+        {
+            "tag": "what_is_solution_engineering__approaching_and_applying_problem_solving_techniques",
+            "patterns": [
+                "What is Solution Engineering- Approaching and Applying problem solving Techniques?"
+            ],
+            "responses": [
+                "Tech talk on Solution Engineering- Approaching and Applying problem solving Techniques by Mr. Ronak Saif, is a Technical Solutions Engineer ,Google Cloud Platform division, Google. The main objective is to help students to understand solutions Engineering and its applications."
+            ]
+        },
+        {
+            "tag": "what_is_get_set_for_placements",
+            "patterns": [
+                "What is Get Set for Placements?"
+            ],
+            "responses": [
+                "The placement event on Get set for placements by Ms.Vyshnavi Kowshik S, a DevOps Engineer at Goldman Sachs. The main objective is how interns get benefits from on-the-job training and interviews."
+            ]
+        },
+        {
+            "tag": "what_is_faculty_enablement_program",
+            "patterns": [
+                "What is Faculty Enablement Program?"
+            ],
+            "responses": [
+                "Department faculty Dr Renukadevi S, Prof Yashaswini B M, attended five days of Faculty Enablement Program(FEP) organized by the Infosys springboard,Bangalore, on the topic “Artificial Intelligence ” "
+            ]
+        },
+        {
+            "tag": "what_is_tech_talk_on_machine_learning",
+            "patterns": [
+                "What is Tech-Talk on Machine Learning?"
+            ],
+            "responses": [
+                "Tech-Talk onMachine Learning by Mr. Muthu Bhuvana Sundaram,Senior Data Scientist-Advanced Analytics / ML in IBM was organised on 13th March 2021. The main objective is to help the students to delve into the technicalities of AI and ML."
+            ]
+        },
+        {
+            "tag": "what_is_breakthrough_the_change",
+            "patterns": [
+                "What is Breakthrough the Change?"
+            ],
+            "responses": [
+                "To help the students to interact with alumni about the aspects that each of the student should focus on, The event Breakthrough the Change was organised on 18th March 2021.Swati Agarwal,Alumni of DSCE andRohit Ranjan,Alumni of DSCE participated in the event."
+            ]
+        },
+        {
+            "tag": "what_is_vision",
+            "patterns": [
+                "What is Vision?"
+            ],
+            "responses": [
+                "To provide progressive education and flourish the student’s ingenuity to be successful professionals impacting the society for a smarter and ethical world."
+            ]
+        },
+        {
+            "tag": "what_is_mission",
+            "patterns": [
+                "What is Mission?"
+            ],
+            "responses": [
+                "To adopt an engaging teaching learning process with emphasis on problem solving and programming skills.To promote additional skill development through enhanced and experiential learning.To collaborate with industries and professional bodies and make the students industry ready.To encourage innovation through multi-disciplinary research and development activities.To imbibe human values and ethics in students to make them impact the society’s as responsible professionals."
+            ]
+        },
+        {
+            "tag": "what_is_pso",
+            "patterns": [
+                "What is PSO?"
+            ],
+            "responses": [
+                "Program Specific Outcomes(PSO)PSO 1: Graduates will be adept in programming and problem solving skills for developing and managing software.PSO 2: Graduates will be able to identify, formulate, predict and solve real world problems by applying principles of Artificial Intelligence & Machine Learning.PSO 3: Graduates will be proficient to efficiently manage computer system resources using cloud computing technologies."
+            ]
+        },
+        {
+            "tag": "what_is_program_specific_outcomes(pso)",
+            "patterns": [
+                "What is Program Specific Outcomes(PSO)?"
+            ],
+            "responses": [
+                "PSO 1: Graduates will be adept in programming and problem solving skills for developing and managing software.PSO 2: Graduates will be able to identify, formulate, predict and solve real world problems by applying principles of Artificial Intelligence & Machine Learning.PSO 3: Graduates will be proficient to efficiently manage computer system resources using cloud computing technologies."
+            ]
+        },
+        {
+            "tag": "what_is_peo",
+            "patterns": [
+                "What is PEO?"
+            ],
+            "responses": [
+                "Program Education Objectives(PEOs)PEO 1: Able to practice and implement their success skills like problem solving, communication and collaboration for providing innovative engineering solutions.PEO 2: Contribute their AI & ML expertise grounded in computer science and mathematics as members and leaders of professional engineering teams in multidisciplinary domains.PEO 3: Demonstrate lifelong learning through continued professional development and higher education in top graduate technical, research and management programs.PEO 4: Demonstrate a commitment to society by applying the skills and knowledge for a smarter and ethical world."
+            ]
+        },
+        {
+            "tag": "what_is_program_education_objectives(peos)",
+            "patterns": [
+                "What is Program Education Objectives(PEOs)?"
+            ],
+            "responses": [
+                "PEO 1: Able to practice and implement their success skills like problem solving, communication and collaboration for providing innovative engineering solutions.PEO 2: Contribute their AI & ML expertise grounded in computer science and mathematics as members and leaders of professional engineering teams in multidisciplinary domains.PEO 3: Demonstrate lifelong learning through continued professional development and higher education in top graduate technical, research and management programs.PEO 4: Demonstrate a commitment to society by applying the skills and knowledge for a smarter and ethical world."
+            ]
+        },
+        {
+            "tag": "what_is_from_the_hod's_desk:",
+            "patterns": [
+                "What is From the HOD's Desk:?"
+            ],
+            "responses": [
+                "At DSCE, we present a stimulating 4-year B.E program in Artificial Intelligence & Machine Learning (AI & ML) designed for ambitious students eager to embark on a fulfilling career in these cutting-edge fields. AI is a revolutionary technology shaping the future across various industries and human activities. It has significantly altered everyday life, driving a soaring need for professionals skilled in AI & ML. Our curriculum aims to cultivate adept engineers with a robust foundation in computer science, enhanced by comprehensive knowledge and hands-on experience in AI & ML, thus unlocking numerous career prospects. Participants will learn to develop pioneering applications utilizing technologies like Neural Networks, Natural Language Processing, Computer Vision, ML in Production and Generative AI. Our all-encompassing, industry-aligned curriculum, coupled with project-based learning and guidance from seasoned faculty, ensures students are industry-ready. Additionally, we place equal emphasis on research, entrepreneurship, and placements, fostering a holistic approach to career development. Dr. Vindhya P MalagiProfessor & Head of the DepartmentE-mail:hod-ai@dayanandasagar.edu"
+            ]
+        },
+        {
+            "tag": "what_is_academic_advisory_committee",
+            "patterns": [
+                "What is Academic Advisory Committee?"
+            ],
+            "responses": [
+                "1. Satyanath BhatAssistant ProfessorIndian Institute Of Technology, GoaLinkedIn:https://www.linkedin.com/in/satyanath-bhat-8855885/2. Dr.Pavan Kumar CAssistant ProfessorDept of CSEIndian Institute Of Information Technology Dharwad"
+            ]
+        },
+        {
+            "tag": "what_is_industry_advisory_committee",
+            "patterns": [
+                "What is Industry Advisory Committee?"
+            ],
+            "responses": [
+                "1. Nitest GuptaSenior Principal Scientist @ National Aerospace Laboratries, BangaloreLinkedIn:https://www.linkedin.com/in/nitesh-gupta-398650b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app  2. Suresh AmbekarChief Architect at IBMLinkedIn:https://www.linkedin.com/in/suresh-ambekar-939157172/  3. MandarEngineering LeaderAmazon, USAEx-AppleLinkedIn:https://www.linkedin.com/in/mandar-mirji-73a88b211"
+            ]
+        }
+    ]
+}
